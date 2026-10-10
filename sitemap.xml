@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Русский (основной) -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alekseykostikov66.github.io/collar-or-dawn/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alekseykostikov66.github.io/collar-or-dawn/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://alekseykostikov66.github.io/collar-or-dawn/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://alekseykostikov66.github.io/collar-or-dawn/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://alekseykostikov66.github.io/collar-or-dawn/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alekseykostikov66.github.io/collar-or-dawn/ar/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://alekseykostikov66.github.io/collar-or-dawn/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alekseykostikov66.github.io/collar-or-dawn/"/>
+  </url>
+
+  <!-- Английский -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/en/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Испанский -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/es/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Португальский -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/pt/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Немецкий -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/de/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Французский -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/fr/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Арабский -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/ar/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Китайский -->
+  <url>
+    <loc>https://alekseykostikov66.github.io/collar-or-dawn/zh/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

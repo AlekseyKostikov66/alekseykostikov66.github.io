@@ -1,0 +1,8 @@
+# robots.txt — Ошейник или рассвет
+# Разрешаем индексацию всем поисковым системам
+
+User-agent: *
+Allow: /
+Disallow: /img/*.txt
+
+Sitemap: https://alekseykostikov66.github.io/collar-or-dawn/

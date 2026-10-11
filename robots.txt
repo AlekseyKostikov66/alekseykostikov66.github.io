@@ -5,4 +5,4 @@ User-agent: *
 Allow: /
 Disallow: /img/*.txt
 
-Sitemap: https://alekseykostikov66.github.io/collar-or-dawn/
+Sitemap: https://alekseykostikov66.github.io/sitemap.xml

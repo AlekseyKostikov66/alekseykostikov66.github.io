@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="zh-CN" prefix="og: https://ogp.me/ns# book: https://ogp.me/ns/book#">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#8b2e2e">
+  <meta name="color-scheme" content="light">
+
+  <title>项圈或黎明 — 如何在数字锁链时代夺回你的声音</title>
+  <meta name="description" content="一本小书，讲述代议制民主的崩塌、央行数字货币的数字控制，以及区块链上以人工智能为顾问的 DAO 生态系统。序言、七章正文与尾声，谈人民主权、自由与新的社会秩序。">
+  <meta name="keywords" content="民主, DAO, 去中心化自治组织, 区块链, 央行数字货币, 数字集中营, 自由, 人民主权, 去中心化, 智能合约, 加密货币, 数字人民币, 人工智能, 自治, 公民社会, 一人一票, 反乌托邦, 未来, 科技, 政治, 经济">
+  <meta name="author" content="阿列克谢·科斯季科夫">
+  <meta name="creator" content="阿列克谢·科斯季科夫">
+  <meta name="publisher" content="人民主权">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow">
+  <meta name="rating" content="general">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+
+  <link rel="canonical" href="https://alekseykostikov66.github.io/zh/">
+  <link rel="alternate" hreflang="ru" href="https://alekseykostikov66.github.io/">
+  <link rel="alternate" hreflang="en" href="https://alekseykostikov66.github.io/en/">
+  <link rel="alternate" hreflang="es" href="https://alekseykostikov66.github.io/es/">
+  <link rel="alternate" hreflang="pt" href="https://alekseykostikov66.github.io/pt/">
+  <link rel="alternate" hreflang="de" href="https://alekseykostikov66.github.io/de/">
+  <link rel="alternate" hreflang="fr" href="https://alekseykostikov66.github.io/fr/">
+  <link rel="alternate" hreflang="ar" href="https://alekseykostikov66.github.io/ar/">
+  <link rel="alternate" hreflang="zh" href="https://alekseykostikov66.github.io/zh/">
+  <link rel="alternate" hreflang="x-default" href="https://alekseykostikov66.github.io/">
+
+  <meta property="og:type" content="book">
+  <meta property="og:site_name" content="项圈或黎明">
+  <meta property="og:title" content="项圈或黎明 — 如何在数字锁链时代夺回你的声音">
+  <meta property="og:description" content="一本小书，讲述民主的崩塌、央行数字货币的数字项圈，以及以人工智能为顾问的 DAO 生态系统。从诊断到方案。">
+  <meta property="og:url" content="https://alekseykostikov66.github.io/zh/">
+  <meta property="og:image" content="https://alekseykostikov66.github.io/img/og-cover.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="项圈或黎明 — 图书封面">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:locale:alternate" content="ru_RU">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="es_ES">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <meta property="og:locale:alternate" content="de_DE">
+  <meta property="og:locale:alternate" content="fr_FR">
+  <meta property="og:locale:alternate" content="ar_AR">
+
+  <meta property="book:author" content="阿列克谢·科斯季科夫">
+  <meta property="book:tag" content="民主">
+  <meta property="book:tag" content="DAO">
+  <meta property="book:tag" content="区块链">
+  <meta property="book:tag" content="央行数字货币">
+  <meta property="book:tag" content="自由">
+  <meta property="book:release_date" content="2026-10-10">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@abkostikov">
+  <meta name="twitter:creator" content="@abkostikov">
+  <meta name="twitter:title" content="项圈或黎明 — 如何夺回你的声音">
+  <meta name="twitter:description" content="一本小书，讲述民主的崩塌、央行数字货币的数字项圈，以及以人工智能为顾问的 DAO 生态系统。">
+  <meta name="twitter:image" content="https://alekseykostikov66.github.io/img/og-cover.jpg">
+  <meta name="twitter:image:alt" content="项圈或黎明 — 图书封面">
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%238b2e2e'/%3E%3Ctext x='50' y='68' font-size='62' text-anchor='middle' fill='%23f5efe2' font-family='Georgia,serif'%3E◈%3C/text%3E%3C/svg%3E">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%238b2e2e'/%3E%3Ctext x='50' y='68' font-size='62' text-anchor='middle' fill='%23f5efe2' font-family='Georgia,serif'%3E◈%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://t.me" crossorigin>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Book",
+        "@id": "https://alekseykostikov66.github.io/zh/#book",
+        "name": "项圈或黎明",
+        "alternateName": "如何在数字锁链时代夺回你的声音",
+        "description": "一本小书，讲述代议制民主的崩塌、央行数字货币的数字控制，以及区块链上以人工智能为顾问的 DAO 生态系统。",
+        "bookFormat": "https://schema.org/EBook",
+        "inLanguage": "zh-CN",
+        "numberOfPages": 40,
+        "genre": ["政治", "哲学", "科技", "随笔"],
+        "keywords": "民主, DAO, 区块链, 央行数字货币, 自由, 人民主权, 数字控制, 去中心化",
+        "datePublished": "2026-10-10",
+        "author": {
+          "@type": "Person",
+          "name": "阿列克谢·科斯季科夫",
+          "url": "https://t.me/narodnoe_samoderjavie",
+          "sameAs": [
+            "https://twitter.com/abkostikov",
+            "https://vk.com/abkostikov",
+            "https://ok.ru/abkostikov",
+            "https://instagram.com/abkostikov",
+            "https://facebook.com/abkostikov"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "人民主权",
+          "url": "https://t.me/s/narodnoe_samoderjavie"
+        },
+        "image": "https://alekseykostikov66.github.io/img/og-cover.jpg",
+        "url": "https://alekseykostikov66.github.io/zh/",
+        "hasPart": [
+          { "@type": "Chapter", "name": "序言。一场给我们安排了观众席的演出", "position": 0 },
+          { "@type": "Chapter", "name": "第一章。荒诞剧场：选举如何变成了一场表演", "position": 1 },
+          { "@type": "Chapter", "name": "第二章。消失的选民：选举之间的权力", "position": 2 },
+          { "@type": "Chapter", "name": "第三章。数字缰绳：为什么便利比锁链更危险", "position": 3 },
+          { "@type": "Chapter", "name": "第四章。旧酒新皮袋", "position": 4 },
+          { "@type": "Chapter", "name": "第五章。一人一票", "position": 5 },
+          { "@type": "Chapter", "name": "第六章。49 与 51：一种无人能成为主人的经济", "position": 6 },
+          { "@type": "Chapter", "name": "第七章。顾问，而非独裁者", "position": 7 },
+          { "@type": "Chapter", "name": "尾声。黎明从一个开始", "position": 8 }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://alekseykostikov66.github.io/zh/#website",
+        "url": "https://alekseykostikov66.github.io/zh/",
+        "name": "项圈或黎明",
+        "inLanguage": "zh-CN",
+        "publisher": { "@id": "https://alekseykostikov66.github.io/zh/#book" }
+      }
+    ]
+  }
+  </script>
+
+  <style>
+:root {
+  --bg: #f5efe2; --bg-alt: #fbf7ee; --paper: #fffdf7;
+  --ink: #2b2722; --ink-soft: #57504a; --ink-muted: #8a817a;
+  --accent: #8b2e2e; --accent-soft: #b85a5a;
+  --line: #e3d8c5; --line-strong: #cbbda3;
+  --shadow: 0 2px 8px rgba(43,39,34,0.06), 0 12px 32px rgba(43,39,34,0.06);
+  --radius: 14px; --maxw: 780px; --sidebar-w: 260px; --social-w: 78px;
+  --serif: "Noto Serif SC", "Source Han Serif SC", "Songti SC", "SimSun", Georgia, serif;
+  --sans: "Noto Sans SC", "Source Han Sans SC", "PingFang SC", "Microsoft YaHei", -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 90px; }
+body { margin: 0; font-family: var(--serif); font-size: 19px; line-height: 1.9; color: var(--ink); background: var(--bg); -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+.progress-bar { position: fixed; top: 0; left: 0; height: 3px; width: 0%; background: var(--accent); z-index: 200; transition: width 0.12s linear; }
+.lang-switch { position: fixed; top: 12px; right: 18px; display: flex; gap: 4px; z-index: 180; background: rgba(255,253,247,0.94); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); padding: 5px 6px; border-radius: 999px; border: 1px solid var(--line-strong); box-shadow: var(--shadow); font-family: var(--sans); }
+.lang-switch a { font-size: 11px; font-weight: 600; letter-spacing: 0.04em; color: var(--ink-soft); text-decoration: none; padding: 4px 8px; border-radius: 999px; transition: background 0.15s, color 0.15s; text-transform: uppercase; }
+.lang-switch a:hover { background: var(--line); color: var(--ink); }
+.lang-switch a.active { background: var(--accent); color: #fff; }
+.sidebar-left { position: fixed; top: 0; left: 0; bottom: 0; width: var(--sidebar-w); background: var(--bg-alt); border-right: 1px solid var(--line); padding: 32px 24px 24px; overflow-y: auto; z-index: 100; }
+.sidebar-inner { display: flex; flex-direction: column; min-height: 100%; }
+.brand { display: inline-flex; align-items: center; gap: 8px; font-family: var(--sans); font-size: 16px; font-weight: 700; color: var(--ink); text-decoration: none; line-height: 1.4; }
+.brand:hover { color: var(--accent); }
+.brand-mark { color: var(--accent); font-size: 16px; flex-shrink: 0; }
+.brand-sub { font-family: var(--sans); font-size: 11px; letter-spacing: 0.15em; color: var(--ink-muted); margin: 4px 0 28px; }
+.toc-nav { display: flex; flex-direction: column; gap: 2px; padding-top: 16px; border-top: 1px solid var(--line); }
+.toc-nav a { display: flex; align-items: baseline; gap: 10px; font-family: var(--sans); font-size: 14px; color: var(--ink-soft); text-decoration: none; padding: 9px 10px; border-radius: 8px; transition: background 0.15s, color 0.15s; line-height: 1.5; }
+.toc-nav a:hover { background: var(--paper); color: var(--ink); }
+.toc-nav a.active { background: var(--accent); color: #fff; }
+.toc-nav a.active .toc-num { color: #fff; opacity: 0.85; }
+.toc-num { display: inline-block; min-width: 18px; font-size: 12px; font-weight: 700; color: var(--accent); opacity: 0.7; text-align: center; flex-shrink: 0; }
+.sidebar-foot { margin-top: auto; padding-top: 24px; font-family: var(--sans); font-size: 11px; color: var(--ink-muted); }
+.sidebar-right { position: fixed; top: 50%; right: 18px; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center; gap: 10px; z-index: 100; padding: 4px; }
+.social-label { font-family: var(--sans); font-size: 10px; letter-spacing: 0.15em; color: var(--ink-muted); writing-mode: vertical-rl; transform: rotate(180deg); margin-bottom: 4px; }
+.social-line { width: 1px; height: 22px; background: var(--line-strong); }
+.social-handle { font-family: var(--sans); font-size: 11px; color: var(--ink-muted); writing-mode: vertical-rl; transform: rotate(180deg); margin-top: 4px; }
+.social { display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: var(--paper); border: 1px solid var(--line-strong); color: var(--ink-soft); text-decoration: none; font-family: var(--sans); font-size: 11px; font-weight: 700; transition: transform 0.15s, background 0.15s, color 0.15s, border-color 0.15s, box-shadow 0.15s; box-shadow: 0 1px 3px rgba(43,39,34,0.05); }
+.social svg { fill: currentColor; }
+.social-ig svg { fill: none; }
+.social:hover { transform: translateY(-2px) scale(1.05); color: #fff; border-color: transparent; box-shadow: 0 6px 16px rgba(43,39,34,0.18); }
+.social-tg:hover { background: #229ED9; }
+.social-ok:hover { background: #EE8208; }
+.social-vk:hover { background: #0077FF; }
+.social-ig:hover { background: #E1306C; }
+.social-tw:hover { background: #0f0f0f; }
+.social-fb:hover { background: #1877F2; }
+.mobile-header { display: none; position: sticky; top: 0; z-index: 150; background: rgba(245,239,226,0.96); backdrop-filter: saturate(140%) blur(8px); -webkit-backdrop-filter: saturate(140%) blur(8px); border-bottom: 1px solid var(--line); }
+.mobile-inner { display: flex; align-items: center; justify-content: space-between; padding: 12px 18px; gap: 12px; min-height: 56px; }
+.brand-mobile { font-size: 14px; flex: 1; min-width: 0; }
+.brand-mobile .brand-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.menu-toggle { width: 40px; height: 40px; background: transparent; border: 1px solid var(--line-strong); border-radius: 8px; cursor: pointer; padding: 9px 8px; display: flex; flex-direction: column; justify-content: space-between; flex-shrink: 0; }
+.menu-toggle span { display: block; height: 2px; background: var(--ink); border-radius: 2px; transition: transform 0.2s, opacity 0.2s; }
+.menu-toggle.open span:nth-child(1) { transform: translateY(9px) rotate(45deg); }
+.menu-toggle.open span:nth-child(2) { opacity: 0; }
+.menu-toggle.open span:nth-child(3) { transform: translateY(-9px) rotate(-45deg); }
+.mobile-nav { display: flex; flex-direction: column; gap: 0; background: var(--paper); border-top: 1px solid var(--line); padding: 0 12px; max-height: 0; overflow: hidden; transition: max-height 0.28s ease, padding 0.28s ease; }
+.mobile-nav.open { max-height: 70vh; overflow-y: auto; padding-top: 8px; padding-bottom: 14px; }
+.mobile-nav a { font-family: var(--sans); font-size: 15px; color: var(--ink-soft); text-decoration: none; padding: 12px 14px; border-radius: 8px; transition: background 0.15s, color 0.15s; }
+.mobile-nav a:hover, .mobile-nav a.active { background: var(--accent); color: #fff; }
+.main-content { margin-left: var(--sidebar-w); margin-right: var(--social-w); min-height: 100vh; }
+.cover { padding: 96px 24px 64px; text-align: center; background: radial-gradient(ellipse at 50% 0%, rgba(139,46,46,0.06), transparent 55%), linear-gradient(180deg, var(--bg-alt), var(--bg)); border-bottom: 1px solid var(--line); }
+.cover-inner { max-width: 620px; margin: 0 auto; }
+.cover-kicker { font-family: var(--sans); font-size: 13px; letter-spacing: 0.15em; color: var(--accent); margin: 0 0 20px; }
+.cover-title { font-family: var(--serif); font-size: clamp(38px, 6vw, 60px); line-height: 1.2; margin: 0 0 18px; font-weight: 700; letter-spacing: 0.02em; }
+.cover-subtitle { font-size: clamp(16px, 2.2vw, 20px); color: var(--ink-soft); margin: 0 0 14px; }
+.cover-tagline { font-family: var(--sans); font-size: 14px; color: var(--ink-muted); line-height: 1.9; margin: 0 0 42px; }
+.cover-toc { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding-top: 26px; border-top: 1px solid var(--line); }
+.cover-toc a { font-family: var(--sans); font-size: 13px; color: var(--ink-soft); text-decoration: none; padding: 5px 11px; border: 1px solid var(--line-strong); border-radius: 999px; transition: all 0.15s; }
+.cover-toc a:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+.book { max-width: var(--maxw); margin: 0 auto; padding: 20px 32px 60px; }
+.chapter { padding: 60px 0 40px; border-bottom: 1px solid var(--line); }
+.chapter:last-child { border-bottom: none; }
+.chapter-header { text-align: center; margin-bottom: 34px; }
+.chapter-number { display: inline-block; font-family: var(--sans); font-size: 13px; letter-spacing: 0.15em; color: var(--accent); margin-bottom: 14px; font-weight: 700; }
+.chapter-header h2 { font-family: var(--serif); font-size: clamp(22px, 3.4vw, 32px); line-height: 1.4; margin: 0; font-weight: 700; letter-spacing: 0.01em; }
+.chapter p { margin: 0 0 1.4em; text-align: justify; line-height: 1.95; }
+.chapter p:first-of-type::first-letter { font-size: 1em; float: none; padding: 0; color: var(--ink); font-weight: inherit; }
+.chapter-image { margin: 0 0 34px; border-radius: var(--radius); overflow: hidden; background: var(--bg-alt); border: 1px solid var(--line); box-shadow: var(--shadow); aspect-ratio: 16/9; position: relative; }
+.chapter-image img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.chapter-image.image-missing::before { content: "📷 图片将出现在此处"; position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-family: var(--sans); font-size: 14px; color: var(--ink-muted); background: repeating-linear-gradient(45deg, #efe6d3 0 20px, #eadfc8 20px 40px); }
+.chapter-image.image-missing img { opacity: 0; }
+.site-footer { max-width: var(--maxw); margin: 0 auto; padding: 50px 32px 70px; text-align: center; font-family: var(--sans); font-size: 14px; color: var(--ink-muted); border-top: 1px solid var(--line); }
+.footer-title { font-size: 14px; color: var(--ink-soft); margin: 0 0 20px; }
+.footer-socials { display: none; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 0 0 20px; }
+.footer-handle { font-size: 13px; color: var(--accent-soft); margin: 0 0 10px; }
+.footer-hash { font-size: 12px; color: var(--ink-muted); word-break: break-word; line-height: 1.9; margin: 0; }
+.to-top { position: fixed; right: 20px; bottom: 20px; width: 46px; height: 46px; border-radius: 50%; border: 1px solid var(--line-strong); background: var(--paper); color: var(--ink); font-size: 20px; cursor: pointer; opacity: 0; pointer-events: none; transform: translateY(10px); transition: opacity 0.25s, transform 0.25s, background 0.15s, color 0.15s; box-shadow: var(--shadow); z-index: 120; }
+.to-top.show { opacity: 1; pointer-events: auto; transform: translateY(0); }
+.to-top:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+@media (max-width: 1100px) {
+  .sidebar-left, .sidebar-right { display: none; }
+  .mobile-header { display: block; }
+  .main-content { margin-left: 0; margin-right: 0; }
+  .footer-socials { display: flex; }
+  .cover { padding: 56px 20px 44px; }
+  .book { padding: 10px 22px 50px; }
+  .chapter { padding: 44px 0 32px; }
+  html { scroll-padding-top: 76px; }
+  .lang-switch { top: auto; bottom: 76px; right: 14px; }
+}
+@media (max-width: 560px) {
+  body { font-size: 17px; }
+  .cover-title { font-size: 34px; }
+  .cover-subtitle { font-size: 15px; }
+  .chapter-header h2 { font-size: 21px; }
+  .chapter-number { font-size: 12px; }
+  .book { padding: 8px 18px 40px; }
+  .chapter { padding: 40px 0 28px; }
+  .chapter p { text-align: left; }
+  .chapter-image { aspect-ratio: 4/3; }
+  .site-footer { padding: 40px 18px 60px; }
+  .to-top { width: 42px; height: 42px; right: 14px; bottom: 14px; font-size: 18px; }
+  .lang-switch { bottom: 70px; }
+}
+@media print {
+  .sidebar-left, .sidebar-right, .mobile-header, .to-top,
+  .progress-bar, .cover-toc, .footer-socials, .lang-switch { display: none !important; }
+  body { background: #fff; font-size: 12pt; color: #000; }
+  .main-content { margin: 0; }
+  .chapter { page-break-after: always; border: none; padding: 0; }
+  .chapter-image { box-shadow: none; aspect-ratio: auto; }
+}
+  </style>
+</head>
+<body>
+
+  <div class="progress-bar" id="progressBar"></div>
+
+  <nav class="lang-switch" aria-label="语言">
+    <a href="../index.html" hreflang="ru" lang="ru" title="Русский">RU</a>
+    <a href="../en/index.html" hreflang="en" lang="en" title="English">EN</a>
+    <a href="../es/index.html" hreflang="es" lang="es" title="Español">ES</a>
+    <a href="../pt/index.html" hreflang="pt" lang="pt" title="Português">PT</a>
+    <a href="../de/index.html" hreflang="de" lang="de" title="Deutsch">DE</a>
+    <a href="../fr/index.html" hreflang="fr" lang="fr" title="Français">FR</a>
+    <a href="../ar/index.html" hreflang="ar" lang="ar" title="العربية">AR</a>
+    <a href="index.html" class="active" hreflang="zh" lang="zh" title="中文">ZH</a>
+  </nav>
+
+  <aside class="sidebar-left" aria-label="目录">
+    <div class="sidebar-inner">
+      <a href="#top" class="brand">
+        <span class="brand-mark">◈</span>
+        <span class="brand-text">项圈或黎明</span>
+      </a>
+      <p class="brand-sub">一本小书</p>
+      <nav class="toc-nav">
+        <a href="#prolog"><span class="toc-num">序</span>序言</a>
+        <a href="#chapter-1"><span class="toc-num">一</span>荒诞剧场</a>
+        <a href="#chapter-2"><span class="toc-num">二</span>消失的选民</a>
+        <a href="#chapter-3"><span class="toc-num">三</span>数字缰绳</a>
+        <a href="#chapter-4"><span class="toc-num">四</span>旧酒新皮袋</a>
+        <a href="#chapter-5"><span class="toc-num">五</span>一人一票</a>
+        <a href="#chapter-6"><span class="toc-num">六</span>49 与 51</a>
+        <a href="#chapter-7"><span class="toc-num">七</span>顾问</a>
+        <a href="#epilog"><span class="toc-num">尾</span>尾声</a>
+      </nav>
+      <p class="sidebar-foot">#人民主权</p>
+    </div>
+  </aside>
+
+  <aside class="sidebar-right" aria-label="分享">
+    <span class="social-label">分享</span>
+    <span class="social-line"></span>
+    <a class="social social-tg" href="https://t.me/s/narodnoe_samoderjavie" target="_blank" rel="noopener" aria-label="Telegram 频道" title="Telegram · 人民主权">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>
+    </a>
+    <a class="social social-ok" href="https://ok.ru/abkostikov" target="_blank" rel="noopener" aria-label="Odnoklassniki"><span>OK</span></a>
+    <a class="social social-vk" href="https://vk.com/abkostikov" target="_blank" rel="noopener" aria-label="VK"><span>VK</span></a>
+    <a class="social social-ig" href="https://instagram.com/abkostikov" target="_blank" rel="noopener" aria-label="Instagram">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+    </a>
+    <a class="social social-tw" href="https://twitter.com/abkostikov" target="_blank" rel="noopener" aria-label="Twitter / X">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M17.53 3H20.5l-6.5 7.43L21.7 21h-6.2l-4.85-6.34L5.1 21H2.13l6.96-7.94L2 3h6.36l4.38 5.79L17.53 3zm-1.09 16.2h1.65L7.63 4.7H5.86l10.58 14.5z"/></svg>
+    </a>
+    <a class="social social-fb" href="https://facebook.com/abkostikov" target="_blank" rel="noopener" aria-label="Facebook">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+    </a>
+    <span class="social-line"></span>
+    <span class="social-handle">@abkostikov</span>
+  </aside>
+
+  <header class="mobile-header">
+    <div class="mobile-inner">
+      <a href="#top" class="brand brand-mobile">
+        <span class="brand-mark">◈</span>
+        <span class="brand-text">项圈或黎明</span>
+      </a>
+      <button class="menu-toggle" id="menuToggle" aria-label="菜单" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <nav class="mobile-nav" id="mobileNav">
+      <a href="#prolog">序言</a>
+      <a href="#chapter-1">一、荒诞剧场</a>
+      <a href="#chapter-2">二、消失的选民</a>
+      <a href="#chapter-3">三、数字缰绳</a>
+      <a href="#chapter-4">四、旧酒新皮袋</a>
+      <a href="#chapter-5">五、一人一票</a>
+      <a href="#chapter-6">六、49 与 51</a>
+      <a href="#chapter-7">七、顾问</a>
+      <a href="#epilog">尾声</a>
+    </nav>
+  </header>
+
+  <main class="main-content" id="top">
+
+    <section class="cover">
+      <div class="cover-inner">
+        <p class="cover-kicker">一本小书</p>
+        <h1 class="cover-title">项圈<br>或黎明</h1>
+        <p class="cover-subtitle">如何在数字锁链时代夺回你的声音</p>
+        <p class="cover-tagline">从代议制民主的崩塌<br>到 DAO 生态系统</p>
+        <div class="cover-toc">
+          <a href="#prolog">序言</a>
+          <a href="#chapter-1">第一章</a>
+          <a href="#chapter-2">第二章</a>
+          <a href="#chapter-3">第三章</a>
+          <a href="#chapter-4">第四章</a>
+          <a href="#chapter-5">第五章</a>
+          <a href="#chapter-6">第六章</a>
+          <a href="#chapter-7">第七章</a>
+          <a href="#epilog">尾声</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="book">
+
+      <article class="chapter" id="prolog">
+        <header class="chapter-header">
+          <span class="chapter-number">序言</span>
+          <h2>一场给我们安排了观众席的演出</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/01-prolog.jpg" alt="序言——窗边的孤独身影" loading="lazy"></figure>
+        <p>你为什么感觉不好？别急着回答。我不是在问下班后的疲惫，不是问工资花不到月底的窘迫，也不是问偶尔出状况的健康。这些谁都懂，谁都经历过。我问的是另外一件事——那种清晨你盯着天花板、不想起床时，被你赶走的模糊而酸楚的感觉。它没有名字，但它确实存在。你知道我在说什么。</p>
+        <p>也许是因为你事事都做对了，却看不到结果。你工作，缴税，守法，参加选举——但依然觉得一切都不由你决定。那些左右你人生的决定，是在某个没有你、也不为你的地方做出的。你仿佛在玩一场规则由别人写好的游戏，而你只被分配到跑龙套的角色。点头，鼓掌，回家。如此循环往复。</p>
+        <p>也许是因为有人向你承诺，然后把你忘了。每隔几年，总有人带着漂亮话来找你，请你的信任，得到你的选票——然后消失。他们只在下一场选举前回来，带着新的承诺。你已经不信了，但你还是去了，因为另一条路——干脆不去——更糟。于是你活失望与习惯之间。这也不是你感觉不好的答案。</p>
+        <p>也许是因为你感觉到自由的空间在收缩。不剧烈，不粗暴，而是柔和而不易察觉。先是一个地方取消了现金，然后另一个地方。然后有人说数字钱包更方便。然后解释说某些消费要受限——为了你的安全。你没意识到自己已经进入了一个每一步都留下痕迹、再也走不出去的系统。项圈不是强行戴上的——是被当作礼物送来的。</p>
+        <p>又也许，是因为你孤单。不是物理意义上的孤单——身边有亲人、同事。而是缺少一个共同体：在那里你的声音有意义，有人听你说话，你不是一个功能，而是一个人。我们忘了如何在一起。我们学会了做观众。看、滑、点赞、买。但不决定。不影响。不共建。于是内里生出一片空虚，无论系统塞来多少消遣都填不满。</p>
+        <p>这就是你感觉不好的原因。不是因为你软弱或懒惰。而是因为你是一个活生生的人，却身处一个只把你看作资源的系统里。因为你的声音什么都决定不了，你的钱不属于你，你的自由是块布景，布景背后早已空空如也。你感觉得到，即使你说不出。这种感觉不是病。它是信号。是你的人性在拒绝接受观众的角色。</p>
+        <p>这本书不是抱怨，也不是末日预言。它是一次尝试：弄清我们怎么走到这里，是谁、为什么收紧项圈，最重要的是——能做什么。不是明天，不是某天，而是现在。因为出路是有的，它不在于等一位救世主，也不在于在广场上暴动。它在于建设另一种东西——从下而上，共同努力，按诚实的规则。但在谈解决方案之前，必须先诚实地命名问题。这正是我们要做的。从一开始讲起——从那场给我们安排了观众席的演出。</p>
+      </article>
+
+      <article class="chapter" id="chapter-1">
+        <header class="chapter-header">
+          <span class="chapter-number">第一章</span>
+          <h2>荒诞剧场：选举如何变成了一场表演</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/02-glava-1.jpg" alt="第一章——木偶剧场" loading="lazy"></figure>
+        <p>一切始于一个简单而诚实的承认，人类在很多世纪以前就做出了这个承认：人民无法自我治理。人太多，利益太杂，达成共识的时间太少。于是我们约定：选出那些替我们治理的人。每隔几年，我们走到投票站，在选票上画一个勾，把权力交到他们手上——然后安心生活。这个想法很美。问题在于，为诚实地移交权力而设计的机制，早已变成了别的东西。</p>
+        <p>不带偏见地看一场竞选，你看到的不是纲领的较量，而是一场表演。口号、镜头前的泪水、事先编排好的丑闻、恰好在关键时刻冒出来的揭露。胜出的不是那个对国家有更好方案的人，而是那个导演更好、嗓门更大、广告钱更多的那个人。我们不是为理念投票，而是为一个形象投票。不是为内容，而是为包装。然后我们奇怪：为什么选完之后什么也没变。答案很简单：因为我们选中的不是那个会解决我们问题的人，而是那个把角色演得更漂亮的人。</p>
+        <p>现在让我们看看这座剧场的后台。在美国，游说是合法职业。一家公司雇一个人，让他走进议员的办公室，"说服"他们按正确的方式投票。不是用论据说服——而是用下一次竞选的钱。制药公司每年花数亿美元，好让药价不下降。军火商掏钱，好让军费上涨。这不是地下腐败。这是有办公室、有网站、有年报的正式生意。一切透明。一切合法。而正是这一切决定了哪些法律通过，哪些永远烂在委员会里。</p>
+        <p>有人会说：那是一个国家的问题，我们这里不一样。不，不一样的是布景，本质是一样的。凡是权力能买到的地方——无论是直接付款，还是通过竞选——它都会被买走。凡是决定取决于一个人的地方，都会排起一条由有资源的人组成的长队。不是所有政客都腐败，而是系统本身如此设计。它奖励懂得与金钱打交道的人，挤走带着干净意图来的人。一年两年，干净的人就变得和他的前任一样。或者离开。</p>
+        <p>这里最苦的，不是我们被骗。只有相信的人才会被骗。最苦的，是我们自己同意了这个角色。我们像看剧一样看辩论，像聊角色一样聊候选人。我们等着一个"强人"来收拾一切，而不是去问：我们凭什么把决定我们的权力交给别人？为什么我们的声音在两场选举之间就消失了？为什么在决定要事的委员会里坐着的不是我们，而是我们从未选过的人？</p>
+        <p>代议制民主不是作为理念失败了。它是作为机制失败了。理念是我们选出值得的人并信任他们。机制却是：我们选出最会卖的人，而决策由金钱做出。这个系统消化所有进入它的人——只有面孔在变。新的面孔，旧的规则。新的承诺，旧的结果。这就是荒诞剧场：所有人都知道剧是排好的，却继续演自己的角色，因为看不到替代方案。</p>
+        <p>但替代方案是有的。而要看见它，必须首先诚实地把问题说到底。不仅是选举变成了表演。而是权力在两场选举之间消失了——我们一起也消失了。这是下一章的话题。现在先记住最要紧的一点：所谓民主，越来越像一出结局早已写好的戏。而这个结局不是为我们、也不是由我们写的。</p>
+      </article>
+
+      <article class="chapter" id="chapter-2">
+        <header class="chapter-header">
+          <span class="chapter-number">第二章</span>
+          <h2>消失的选民：选举之间的权力</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/03-glava-2.jpg" alt="第二章——空荡的议会大厅" loading="lazy"></figure>
+        <p>选举结束了。号角停了，承诺淡了，胜者发表了演说，败者承认了失败。然后，寂静降临。选民在这种寂静中消失。没人记得他。没人提起他。没人对他说话。他又变回了竞选之前的那个东西——背景。一个纳税人，一个法律的执行者，一个资源的来源。而下一次也一样：人们又把他从抽屉里拿出来，掸掉灰尘，给他套上一个漂亮理念，请他打一个勾。</p>
+        <p>想一想：当那个将改变你人生的决定做出时，你在哪里？不在大厅。不在办公室。不在委员会。你在工作，在地铁，在厨房。你读到新闻：税涨了，费提了，补贴取消了，法律通过了。你是在决定已经做出之后才得知它的。没人问你。没人讨论。没人请你发言。只是通知了你——就像通知天气。不是因为他们忘了你。而是因为在这个结构里，你本来就不该在场。</p>
+        <p>在两场选举之间，权力转移到没人选过的人手里。官员、顾问、专家、委员会、小组。他们不直接对选民负责。你无法用一张选票把他们赶回家。他们在位子上坐几年、几十年，他们的决定像沉积岩一样一层一层堆积起来。我们活在一个由这些决定建成世界里——却几乎没机会质疑它们。四年投一次票不是权力。那是参与的幻觉。</p>
+        <p>有人会反驳：我们有写请愿、上街、要求的可能。是的，可能是有。但它起作用的方式是安全阀，而不是杠杆。系统允许蒸汽逸出，免得炸了锅炉。你可以写——他们会礼貌地感谢你，然后回一封程式化的官腔。你可以上街——他们要么把你驱散，要么干脆等你累了。什么都不会变，因为决策机制不在你反映的那一头。它是封闭的。它在里面。而你不被邀请进去。</p>
+        <p>这才是代议制民主真正的问题。不是选举被操纵，也不是候选人撒谎。而是：在两场选举之间，你不作为一个政治主体存在。你变成了治理的对象。他们对待你就像对待天气：计算你、预测你、调节你。但不问你。当你意识到这一点时，序言里那个模糊的感觉就回来了。感觉你不在自己的人生里。感觉关于你的决定是在某个你不在、也不会在的地方做出的。</p>
+        <p>能从内部修好它吗？老实说——几乎不能。你可以选别的议员。他们会来，撞上同一台机器，要么碎掉，要么融入。你可以换党。政党会换，官僚机器还在。你可以要求改革。改革会由那些希望什么都不变的人来写。真正会变的，只是屏幕上的面孔。机制照旧。而选民，会在投票之后的第二天再次消失。</p>
+        <p>所以问题得换个问法。不是"如何修好这个系统"，而是"如何建造另一个"。不是"如何让权力听到我们"，而是"如何让权力属于我们"。这听起来激进，其实只是换了一个视角。我们太长时间试图修补一个不是细节坏、而是地基坏的东西。是时候问：如果参与不该止步于选票呢？如果声音可以每天响起，而不是每四年一次呢？</p>
+        <p>我们正走向那里。但在谈解决方案之前，得先应付第二个项圈——那个在"便利"的名义下不知不觉收紧的项圈。因为就算我们夺回了声音，却失去了对自己钱的控制，自由也会是空的。这是下一章的话题。</p>
+      </article>
+
+      <article class="chapter" id="chapter-3">
+        <header class="chapter-header">
+          <span class="chapter-number">第三章</span>
+          <h2>数字缰绳：为什么便利比锁链更危险</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/04-glava-3.jpg" alt="第三章——央行数字货币的数字项圈" loading="lazy"></figure>
+        <p>还记得他们是怎么劝你把纸文件换成电子文件的吗？方便，他们说。不用排队，不用抱着文件夹，一切在手，一切集中。那是真的。但还有另一面，当时没人说。今天，没有网络你拿不到服务。没有智能手机你确认不了身份。如果系统宕机，你连一张票都买不了、约不了医生、办不了证件。便利变成了依赖。而对钱，同样的事正在准备——只是尺度更大。</p>
+        <p>央行数字货币被包装成进步的下一步。不用带钱包，不用数零钱，现金不会丢，所有交易都受保护。听起来合理。但便利的背后总有东西。这里那个东西，是货币的一种全新属性，从未有过。现金是一样东西。你可以藏它、送人、丢掉、烧掉。数字货币是别人账本里的一条记录。而这条记录获得了一样纸质货币从未有过的东西：可编程性。</p>
+        <p>什么叫可编程性？意思是货币获得了以前没有的属性。你可以设定有效期：一个月内没花完——作废。你可以限制使用范围：只能在你所在的城市、你的街区、你的国家花。你可以指定用途：这些钱只能买食物，那些只能用于治病。你可以因为社交媒体上的一句话就把它关停。这不是科幻。这是已经存在、并被严肃讨论的技术可能。</p>
+        <p>想象一下：国家认定你不够忠诚。它不把你关进监狱——那太粗暴、太显眼。它只是切断你对账户的访问。或者限制你在自己街区的消费。或者以"未使用"为由划走你一部分钱。一切合法，一切技术上可行，一切都被解释为对你的安全的关心。这就是为什么数字货币被称为电子项圈。它不在口袋里——它在脖子上。而你自己已经摘不掉了。</p>
+        <p>这里最危险的一点，是入口处的自愿。他们不马上强迫你。他们提供便利、返现、速度、安全。拒绝不方便，接受很愉快。你出于自愿走进去，感觉选了最好的。然后你发现回不去了。现金消失了，商店转向了数字，服务只能通过系统获得。你忽然明白：想正常生活，就必须在系统里。而在系统里，你不再是主人——你是一个可以被关停的用户。</p>
+        <p>谁拥有这个系统，谁就拥有每个人。不是说他了解你的购物，而是说他能操纵你的行为。买这个——可以；买那个——不行。去那里——可以；去那里——不行。闭嘴——必须。这就是人们越来越多地谈到的数字集中营。不必有铁丝网和瞭望塔。只要让钱不再是你的就行。只要让你的每一步都被记录，让系统随时可以决定：你不配得到你挣来的东西。</p>
+        <p>而在这里，两个项圈合在一起了。第一个是政治的：你的声音什么都决定不了。第二个是经济的：你的钱不属于你。合起来，它们创造出完全的依赖。你影响不了决定——也逃不出那个执行决定的系统。你被锁住了。不在监狱里，而是在一个便利的数字空间里，只要听话，一切正常运转。这比公开的暴力可怕得多，因为它看上去不像暴力。</p>
+        <p>但出路是有的。它不是放弃技术——那既不可能，也没必要。它是去建造另一个系统。在那里，钱不靠承诺保护，而由代码保护。在那里，声音不能被买、被夺、被关停。在那里，人重新成为主人，而不是用户。这是接下来几章的话题。现在先记住一件简单的事：为了便利而交出自由，便利就不再是便利。它变成了缰绳。而且它看起来越温柔，就勒得越紧。</p>
+      </article>
+
+      <article class="chapter" id="chapter-4">
+        <header class="chapter-header">
+          <span class="chapter-number">第四章</span>
+          <h2>旧酒新皮袋：为什么没有新内核，技术什么也改变不了</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/05-glava-4.jpg" alt="第四章——旧皮袋与新皮袋" loading="lazy"></figure>
+        <p>在谈解决方案之前，得先用最简单的话讲清什么是 DAO、什么是区块链——不用术语。区块链是一本很多人同时记的共同账本。上面每一条记录所有人都能看到，也无法抹除或伪造，因为副本保存在每个参与者那里。DAO——去中心化自治组织——是一个按写进这本账本的规则生活的社群。没有老板，没有经理，没有议员。只有代码，以及遵循它的人。规则对所有人一样，谁也不能独自改动。</p>
+        <p>听起来像梦。这也正是它被推销的方式。但在这里必须停下来仔细看。2016 年之后出现的第一批 DAO，承诺平等、透明、社群主权。实际呢？大户拿到了决定性的一票。富人更富。有权的人更有权。投票变成了拍卖：谁持有的代币多，谁就制定规则。那些奔着自由来的人发现，他们掉进了同一个系统，只是换了一个界面。同样的钱。同样的权力。同样的等级。</p>
+        <p>问题就在这里。技术本身是中性的。区块链只是一件工具，像锤子。用它你可以盖房子，也可以砸人脑袋。DAO 只是一种组织形式。你可以往里面放平等，也可以放寡头。而大多数现存的 DAO，放的恰恰是后者。他们拿过旧的反人性的游戏规则——资本胜出、强者压服弱者、权力可以买——把它们搬进了虚拟现实。什么都没变。只是现在看起来现代，用了一个时髦的词。</p>
+        <p>想象一位老妇人，做了整形手术，看上去像环球小姐。外面——年轻、漂亮、发光。里面——同一位老妇人。同样的病、同样的疲惫、同样的接近终点。手术改了外壳，没改本质。区块链也一样，它可以改一个组织的外壳，但如果里面留着旧的原则、旧的贪婪、旧的不平等——我们就会得到同样的暴政，只不过更漂亮、更密文。项圈会变数字的，但它依然是项圈。</p>
+        <p>圣经里有基督的话："没有人把新酒装在旧皮袋里；若是这样，皮袋就裂开，酒漏出来，连皮袋也坏了。唯独把新酒装在新皮袋里，两样就都保全了。"（马太福音 9:17）这个想法既天才又深刻：新的内容需要新的形式。你不能把新酒倒进裂了缝的旧皮袋——它们撑不住，会破，一切都完了。但换个说法，更贴合我们的主题："也没有人把旧酒装在新皮袋里。" 你可以建出最先进的技术形式，但如果把旧的、酸掉的内核倒进去——贪婪、等级、不平等——新皮袋也救不了。它只会变成旧毒药的漂亮包装。</p>
+        <p>所以我们不能直接拿现存的 DAO 说："看，这就是方案。" 它们不解决。它们重复。它们只是在数字形式上复制旧世界。我们需要的不仅仅是新皮袋。我们需要新酒。新内核。新的原则——真正把人放在资本之上，把平等放在影响力之上，把社群放在个别强者之上。而这里，最难的部分开始了。因为建区块链是工程。而建立新原则，是灵魂与心灵的工作，不是一夜能完成的。</p>
+        <p>那该怎么办？答案在接下来的几章里。我们不应该只是使用技术，而应该重新思考它的根基。一个人——一个不可出售的代币。四个行会，其中任何一个都不吞掉整个人。49 比 51 的经济，让创业者得到激励，却得不到对人的权力。这不仅仅是新皮袋。这是一次酿造新酒的尝试。但在建造之前，必须诚实地承认：旧酒装进新皮袋——这是我们已经见过的。而它酸掉了。</p>
+      </article>
+
+      <article class="chapter" id="chapter-5">
+        <header class="chapter-header">
+          <span class="chapter-number">第五章</span>
+          <h2>一人一票：平等是如何构造的</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/06-glava-5.jpg" alt="第五章——平等声音的网络" loading="lazy"></figure>
+        <p>现在进入最关键的部分——它内部是怎么运作的。不是泛泛而谈，而是一步一步。假设你决定加入。第一件事：在手机上下载一个应用。不是注册网站，不是把数据交给公司——而是拿到一个程序，把你的身份存在你这里，而不是别人的服务器上。然后是表单和视频验证。系统必须确认你是一个带证件、活生生的人，是一个，而不是某个人的十个账号。这是关键：没有个人的独一无二，平等无从谈起。</p>
+        <p>验证之后，你拿到一个冷钱包——一个闪存盘大小的设备。里面存着你的私钥。这是一段数学密码，它确认这个动作是你而不是别人做的。私钥永不离开设备。就算你把它插进一台中了病毒的电脑，私钥也留在里面。任何人——开发者、政府、黑客——都不能冒你的名义签任何东西。这不是可以被偷的密码。这是你的数字签名，无法伪造。这就是信任问题的解法：你谁都不信，你用数学去验证。</p>
+        <p>现在讲最重要的——智能合约。智能合约是一段无需人参与就自动执行规则的程序。想象一部自己执行自己的法典。投票开始——合约开启投票接收。投票结束——合约关闭投票、计票并公布。没人能插手、扭转、重算。如果规则写明代币不可转让——它就不可转让。如果写明声音可以委托、随时收回——那就如此。代码不说谎。代码不疲倦。代码不收贿赂。</p>
+        <p>每个参与者得到一个代币。而这里，正是我们模型区别于此前一切的关键。这个代币不能卖、不能买、不能继承、不能被夺走。智能合约规定：代币绑定在独一无二的个人身上，没有市场价值。亿万富翁买不到一千个代币。寡头不能把票传给儿子。公司不能买下员工的票。一个人——一个代币——一票。这不是口号，而是系统的技术属性。它不取决于善意。它刻在代码里，自动运行。</p>
+        <p>接着是委托。你不必自己搞懂每一个议题。你可以把票委托给你信任的人：医疗问题托给医生，基础设施托给工程师，教育托给教师。但这不是放弃投票，而是临时使用。任何时刻，点一下，你就把票收回。委托通过智能合约记录：委托给谁、期限多长、涉及哪些议题。谁也不能强行留住你的票。这跟选举截然不同——在选举里，你交出权力好几年，然后就什么都做不了。</p>
+        <p>治理通过四个行会运行。职业行会——按行业：医生、教师、程序员。地域行会——按居住地。组织行会——按工作单位。议题行会——按兴趣：生态、文化、科学、体育。每个行会里你有一票。这意味着没有任何一个角色吞掉整个人。你同时是居民、专家、员工、社群成员。生活的每一部分都被单独代表，任何一方都不能压制其他。这防止工作变成监狱，街区变成营地。</p>
+        <p>所有投票都在区块链上进行。每一票都被永久记录。你可以随时检查你自己和别人怎么投的，谁提了什么，谁支持了什么。不是选举之后，而是实时。这不是秘密投票——这是透明投票。因为秘密只有在害怕报复的地方才需要。而在这里，报复是不可能的：没有人能剥夺你的投票。结果不会伪造，因为计数的不是人，而是代码。结局不能被改写，因为区块链的副本同时保存在成千上万个参与者那里。</p>
+        <p>最后，也是最重要的：这个系统里没有老板。只有一份对所有人一样的代码。只有一个作决定的社群。只有你——平等的一票，受保护的钱包，每天都能施加影响，而不是每四年一次。这才是平等的模样——不在言语里，而在技术里。不是承诺，而是架构。不是相信权力会诚实，而是根本不存在需要被信任的权力。这是下一章的话题：这个系统如何创造一种经济——你可以是创业者，却不能成为人的主人。</p>
+      </article>
+
+      <article class="chapter" id="chapter-6">
+        <header class="chapter-header">
+          <span class="chapter-number">第六章</span>
+          <h2>49 与 51：一种无人能成为主人的经济</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/07-glava-6.jpg" alt="第六章——49 与 51 的天平" loading="lazy"></figure>
+        <p>现在谈钱。因为任何系统，不论多美，如果它的经济基础不公正，都会垮掉。我们习惯了一个世界：企业主是主人，股东是老爷，员工是资源。一些人有权力，另一些人只有义务。利润往上走，风险留在底下。我们的模型提出另一种东西。它从一个简单的原则开始：所有者、股东和员工，每人一个代币。一票。他们是平等的。</p>
+        <p>想象一家咖啡店。店主投入金钱、时间、心血。他冒风险，他发展，他雇人。他有动力——这是对的。所以他获得净利润的 49%。这是对他劳动、风险、创业勇气的回报。他可以成长，开新店，投资设备，改善产品。但 51% 不归他。这笔钱进入人民福利基金——一个共同的池子，为所有人提供基础消费篮子：食物、住房、医疗、教育。</p>
+        <p>为什么是 49，而不是 50 或 40？因为 49% 足以做创业者，却不足以成为人的主人。所有者攒不到压过社群的程度。他买不到票——代币不可出售。他不能发号施令——因为他的一票和清洁工的一票相同。他依然重要、受尊重、富足——但不是无所不能。这是一种平衡：既不会滑向平均主义，也不会回到寡头制。经济之所以诚实，不是因为谁善良，而是因为代码如此设计。</p>
+        <p>现在说最重要的一点，必须直说。咖啡店主有一个代币。投资金钱的股东有一个代币。柜台的咖啡师有一个代币。拖地的清洁工有一个代币。他们在投票权上全部平等。而他们全部匿名。系统知道他们每个人是独特的、带证件的活人。系统不知道具体是谁。不知道名字，不知道地址，不知道职位。只是——一个人。一个。有一票。</p>
+        <p>这在实践中意味着什么？意味着没人能知道店主怎么投的票。没人能算出谁提议修改规则。没人能追踪谁支持了法案、谁反对。投票在结果上透明，在作者上匿名。结果人人可见，却没有一张脸站在它后面。这是对压力的保护。对报复。对收买。防止上司知道下属怎么投然后开除他。防止邻居知道邻居怎么投然后开始迫害。</p>
+        <p>在日常生活里，这听起来不可能。我们习惯了权力知道我们的一切，我们对权力一无所知。这里正好相反。系统不知道你是谁。它只知道你是一个人、你是唯一的、你有一票。你的消费不被追踪。你的投票不与你的名字挂钩。你的提议不署你的名。你施加影响——却保持不可见。这不是为了匿名的匿名。这是作为自由条件的匿名。没有它，平等就是空谈：知情者总能对被他知情的人施压。</p>
+        <p>这就是为什么这种经济能运转。所有者拿到 49%——他满意。股东拿到分红——他安心。员工拿到体面的工资和基础篮子——他受保护。但谁也不能高过谁。没人能买别人的票。没人能知道别人怎么投的票。系统如此构造：贪婪无利可图，诚实不受惩罚。不是因为人变成了天使，而是因为代码不让他们变成魔鬼。</p>
+        <p>而这里必须说最重要的一点。基础消费篮子不是施舍，不是慈善，不是需要去乞求的社会救济。它是人一出生就属于他的东西。不是因为他配得上，不是因为他有用，不是因为他忠诚。而是因为他是一个人。地球上的八十亿人，每一个都有权获得食物、温暖、居所，有权免于饥饿与寒冷，有权在灾难中获得安全。这不是好行为的奖励。这是生命的起点条件——却被少数人从多数人手中夺走了。</p>
+        <p>想想这会带来什么改变。一个知道自己不会饿死、不会在冬天冻死、不会无家可归的人——是另一个人。他不怕丢工作，因为他不会丢命。他不忍受羞辱，因为他不仰仗别人的恩惠。他不用为一块面包卖票，因为面包他早有了。他不止在言语上自由，而是在行动上自由。那时他会想起自己是被谁造的。诗篇 81:6 说："我曾说：你们是神，都是至高者的儿子。"不是国王，不是选民，不是富人——是所有。每个人都按至高者的形象所造，因此值得的不是生存，而是生活。</p>
+        <p>这才是大写的人的意义。不是挣得多的人，不是爬到高位的人，不是在竞争中胜出的人。而是那个意识到自己原初尊严、不允许它被夺走的人。基础篮子不是经济机制。它是对"人不是资源、不是功能、不是劳动力"的确认。它是让人能挺直腰、重新记起自己是谁的物质基础。没有它，一切关于自由的话都是空话：饿着的人不会想高处的事，他没空。吃饱的人——可以。受保护的人——敢。</p>
+        <p>而在这里，一切都连起来了。49 比 51 的经济，不只是公平分配利润的方式。它把人恢复到原来的位置。当每个人都有基础篮子，没人为了食物卖票。当每个人都有一个代币，没人用钱买权力。当所有人匿名，没人怕报复。而当人不再害怕，他会记起自己是至高者的孩子，而不是系统中的齿轮。那时贪婪失去意义，诚实变得自然。不是被人逼的。而是因为他终于成为了他自己。这是下一章的话题——那位不号令、只展示的顾问。</p>
+      </article>
+
+      <article class="chapter" id="chapter-7">
+        <header class="chapter-header">
+          <span class="chapter-number">第七章</span>
+          <h2>顾问，而非独裁者：展示后果的人工智能</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/08-glava-7.jpg" alt="第七章——人工智能顾问与未来模型" loading="lazy"></figure>
+        <p>我们走到这部构造的最后一块——人工智能。这里必须极其小心，因为今天谈起人工智能，要么带着恐惧，要么带着天真的迷恋。有人描绘机器造反、人类被奴役的画面。有人承诺人工智能会解决一切问题，把我们带进天堂。两个都是极端。在我们的生态里，人工智能有一个具体、严格受限的角色。它不统治。不投票。不决定。它是顾问—可视化者。它的任务是展示后果，而不是替我们选择。</p>
+        <p>假设你提出一个法案。比如，在森林中修一条路。在通常的系统里，你在黑暗里投票：有人说这是发展，有人说这是毁掉自然。你凭情绪、口号、对说话者的信任选了一边。然后十年后，你发现了谁都没预见到的后果。这里不一样。你提交提案——人工智能给你看一个模型。森林会怎样。空气会怎样变。路维护要花多少钱。哪些动物会消失。谁会变好，谁会变坏。</p>
+        <p>这不是预言，也不是命令。这是模拟。人工智能不说"照做"或"别做"。它说："如果你这样做，会发生这个。如果你那样做，会发生那个。如果你什么都不做，会发生这些。"未来被展示得像当下——直观、清楚，有数字、有图像。你看到的是全貌，而不是某个觉得对你有利就呈现给你的片段。只有在这之后，你投票。自觉地。睁着眼。不是凭别人一句话，而是亲眼所见。</p>
+        <p>有人会问：人工智能不会通过模拟操纵我们吗？毕竟建模的人可以调参数，让它显示想要的结果。答案很简单：我们系统里的人工智能是开放的。算法人人可见。数据可验证。模型可被质疑、可被提出替代、可被讨论。它不是黑箱，而是透明的工具。而最重要的是——它没有投票权。它的建议什么都决定不了。人才决定。匿名地、平等地、一人一票。人工智能只提供信息——决定权在我们。</p>
+        <p>这就是顾问与独裁者的根本区别。独裁者说："照做，因为我更懂。"顾问说："这些是选项，这是它们的后果，你自己选。"独裁者藏信息，好统治。顾问公开信息，好让你统治自己。独裁者害怕问题。顾问回答问题。在我们系统里，人工智能的全部力量，不是因为它比我们聪明，而是因为它算得快、看得广、不知疲倦。但目标由我们定。价值由我们选。未来由我们建。它只指路。</p>
+        <p>想象决策质量会如何改变。今天法律基于游说、情绪、眼前利益被通过。明天——基于模拟出的后果。今天政客为了让选民高兴承诺减税，一年后预算裂开。明天，选民自己看见：谁会变好，谁会变坏；医院、学校、路会怎样。然后投票时他明白代价。这不会让我们无错。但它让我们看得见。而看得见的人，不会走向悬崖。</p>
+        <p>在这里，整个构造合上了。我们有平等——一人一票。有保护——匿名与不可触碰的代币。有经济——49 比 51，出生即有的基础篮子。有技术——区块链与智能合约。还有顾问——不号令、只展示的人工智能。这一切合在一起，不是乌托邦。它是一道工程题。难，但可解。而且必须在现在解，而不是明天。因为旧世界在处处开裂，新世界还没建成。这是尾声的话题：从哪开始，我们每个人该做什么。</p>
+      </article>
+
+      <article class="chapter" id="epilog">
+        <header class="chapter-header">
+          <span class="chapter-number">尾声</span>
+          <h2>黎明从一个开始</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/09-epilog.jpg" alt="尾声——黎明与希望之光" loading="lazy"></figure>
+        <p>我们走完了全程——从诊断到方案。看见了选举如何变成剧场，选民如何在两次投票之间消失，数字缰绳如何以"便利"之姿收紧。我们分析了为什么旧的 DAO 照搬旧规则，并得出我们需要新酒，而不仅仅是新皮袋。我们描述了平等、经济与人工智能顾问是如何构造的。现在——最诚实的一部分。这些技术都存在。但没有一个被装配成我们需要的那个东西。</p>
+        <p>区块链存在——却被用来投机和炒作迷因币。智能合约存在——里面写着金融金字塔。密码学存在——却在保护别人的财富。人工智能存在——却在服务公司和广告。这一切像不同盒子里的零件，散落各处。有些技术已经成熟，拿来就用。有些需要调整、精修、适配新原则。还有些——需要从零写起，因为类似的东西还没被创造。这不是一个人的任务。这是数千人的工作。</p>
+        <p>但在组装之前，必须先唤醒。世上所有的技术，如果想法到不了人那里，就没有用。今天，数十亿人在沉睡。他们感到有什么不对，却不知道是什么。他们看见症状——贫穷、依赖、无力——却看不见诊断。我们的任务是打开眼睛。不强迫，不喊叫，不吓唬。而是解释。平静地、清楚地、平易地。对每一个愿意听的人。因为经上说：一点面酵能使全团都发起来。不必等数百万人。几个明白了、传下去的人就够了。</p>
+        <p>用一切可用的方式传播人民主权的想法。不仅靠文章——靠厨房里的对话、社交媒体的帖子、视频、播客、诗、歌、画。用任何对话者听得懂的语言。因为想法不是文字，而是火花。它只要在传递中就活着。沉默杀死它，比任何禁令都快。说、争论、解释、回答问题。别怕嘲笑——怕沉默。正是沉默，让旧世界在原来的位置上待了那么久。</p>
+        <p>现在——号召。如果你写代码——加入。如果你是经济学家、法律人、社会学家、工程师、设计师、心理学家、教师——你是需要的。如果你会解释、会组织、会鼓舞——你也需要。不必是天才。只需要是那个决定"当观众当够了"的人。这个项目不属于一个国家，不属于一个民族，不属于一个时代。它是所有时代、所有民族的共同事业，在此刻、在此地聚在一起。如果你内心有回响——你已经是一部分了。</p>
+        <p>黎明不从数百万开始。它从一个醒来、唤醒了第二个人的人开始。第二个人唤醒了第三个人。如此继续——直到黑暗退去。我们不承诺它会容易。不承诺它会快。但我们知道：旧系统因自己不人道，正在自行崩塌。而新系统，正由那些记起自己是神、是至高者的孩子的人建造起来。从小处开始。今天。从这一页。从一次对话。黎明已经很近了。</p>
+      </article>
+
+    </div>
+
+    <footer class="site-footer">
+      <p class="footer-title">项圈或黎明 · 一本小书 · 2026</p>
+      <div class="footer-socials">
+        <a class="social social-tg" href="https://t.me/s/narodnoe_samoderjavie" target="_blank" rel="noopener" aria-label="Telegram 频道">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>
+        </a>
+        <a class="social social-ok" href="https://ok.ru/abkostikov" target="_blank" rel="noopener" aria-label="Odnoklassniki"><span>OK</span></a>
+        <a class="social social-vk" href="https://vk.com/abkostikov" target="_blank" rel="noopener" aria-label="VK"><span>VK</span></a>
+        <a class="social social-ig" href="https://instagram.com/abkostikov" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+        <a class="social social-tw" href="https://twitter.com/abkostikov" target="_blank" rel="noopener" aria-label="Twitter / X">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M17.53 3H20.5l-6.5 7.43L21.7 21h-6.2l-4.85-6.34L5.1 21H2.13l6.96-7.94L2 3h6.36l4.38 5.79L17.53 3zm-1.09 16.2h1.65L7.63 4.7H5.86l10.58 14.5z"/></svg>
+        </a>
+        <a class="social social-fb" href="https://facebook.com/abkostikov" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+        </a>
+      </div>
+      <p class="footer-handle">@abkostikov</p>
+      <p class="footer-hash">#人民主权 #DAO #区块链 #自由 #一人一票 #黎明</p>
+    </footer>
+
+  </main>
+
+  <button class="to-top" id="toTop" aria-label="返回顶部">↑</button>
+
+  <script>
+(function () {
+  "use strict";
+  document.querySelectorAll(".chapter-image img").forEach(function (img) {
+    img.addEventListener("error", function () { img.parentElement.classList.add("image-missing"); });
+  });
+  var menuToggle = document.getElementById("menuToggle");
+  var mobileNav = document.getElementById("mobileNav");
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener("click", function () {
+      var isOpen = mobileNav.classList.toggle("open");
+      menuToggle.classList.toggle("open", isOpen);
+      menuToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+    mobileNav.querySelectorAll("a").forEach(function (link) {
+      link.addEventListener("click", function () {
+        mobileNav.classList.remove("open");
+        menuToggle.classList.remove("open");
+        menuToggle.setAttribute("aria-expanded", "false");
+      });
+    });
+  }
+  var progressBar = document.getElementById("progressBar");
+  function updateProgress() {
+    var s = window.scrollY || document.documentElement.scrollTop;
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    if (progressBar) progressBar.style.width = (h > 0 ? (s / h) * 100 : 0) + "%";
+  }
+  var toTop = document.getElementById("toTop");
+  function toggleToTop() {
+    if (!toTop) return;
+    if (window.scrollY > 500) toTop.classList.add("show"); else toTop.classList.remove("show");
+  }
+  if (toTop) toTop.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+  var sections = Array.prototype.slice.call(document.querySelectorAll(".chapter"));
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll(".toc-nav a, .mobile-nav a"));
+  function setActiveLink() {
+    var fromTop = window.scrollY + 140, current = null;
+    sections.forEach(function (s) { if (s.offsetTop <= fromTop) current = s.id; });
+    navLinks.forEach(function (l) {
+      var href = l.getAttribute("href"); if (!href) return;
+      l.classList.toggle("active", href.replace("#","") === current);
+    });
+  }
+  var ticking = false;
+  function onScroll() {
+    if (ticking) return; ticking = true;
+    window.requestAnimationFrame(function () {
+      updateProgress(); toggleToTop(); setActiveLink(); ticking = false;
+    });
+  }
+  window.addEventListener("scroll", onScroll, { passive: true });
+  window.addEventListener("resize", onScroll);
+  document.querySelectorAll('a[href^="#"]').forEach(function (a) {
+    a.addEventListener("click", function (e) {
+      var href = a.getAttribute("href");
+      if (!href || href === "#" || href === "#top") {
+        if (href === "#top") { e.preventDefault(); window.scrollTo({ top: 0, behavior: "smooth" }); }
+        return;
+      }
+      var id = href.slice(1), target = document.getElementById(id);
+      if (!target) return;
+      e.preventDefault();
+      var isMobile = window.matchMedia("(max-width: 1100px)").matches;
+      var offset = isMobile ? 76 : 40;
+      var top = target.getBoundingClientRect().top + window.scrollY - offset;
+      window.scrollTo({ top: top, behavior: "smooth" });
+      history.replaceState(null, "", "#" + id);
+    });
+  });
+  updateProgress(); toggleToTop(); setActiveLink();
+})();
+  </script>
+</body>
+</html>

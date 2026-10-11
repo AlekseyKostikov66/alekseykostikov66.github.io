@@ -1,6 +1,4 @@
 # robots.txt — Ошейник или рассвет
-# Разрешаем индексацию всем поисковым системам
-
 User-agent: *
 Allow: /
 Disallow: /img/*.txt

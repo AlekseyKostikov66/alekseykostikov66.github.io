@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: https://ogp.me/ns# book: https://ogp.me/ns/book#">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#8b2e2e">
+  <meta name="color-scheme" content="light">
+
+  <title>El Collar o el Amanecer — Cómo recuperar tu voz en la era de las cadenas digitales</title>
+  <meta name="description" content="Un breve libro sobre el colapso de la democracia representativa, el control digital mediante las CBDC y el Ecosistema DAO en blockchain con un asesor de IA. Prólogo, siete capítulos y epílogo sobre la soberanía popular, la libertad y un nuevo orden social.">
+  <meta name="keywords" content="democracia, DAO, blockchain, CBDC, campo de concentración digital, libertad, soberanía popular, descentralización, contratos inteligentes, criptomoneda, euro digital, inteligencia artificial, autogobierno, sociedad civil, una persona un voto, distopía, futuro, tecnología, política, economía">
+  <meta name="author" content="Aleksey Kostikov">
+  <meta name="creator" content="Aleksey Kostikov">
+  <meta name="publisher" content="Soberanía Popular">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow">
+  <meta name="rating" content="general">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+
+  <link rel="canonical" href="https://alekseykostikov66.github.io/es/">
+  <link rel="alternate" hreflang="ru" href="https://alekseykostikov66.github.io/">
+  <link rel="alternate" hreflang="en" href="https://alekseykostikov66.github.io/en/">
+  <link rel="alternate" hreflang="es" href="https://alekseykostikov66.github.io/es/">
+  <link rel="alternate" hreflang="pt" href="https://alekseykostikov66.github.io/pt/">
+  <link rel="alternate" hreflang="de" href="https://alekseykostikov66.github.io/de/">
+  <link rel="alternate" hreflang="fr" href="https://alekseykostikov66.github.io/fr/">
+  <link rel="alternate" hreflang="ar" href="https://alekseykostikov66.github.io/ar/">
+  <link rel="alternate" hreflang="zh" href="https://alekseykostikov66.github.io/zh/">
+  <link rel="alternate" hreflang="x-default" href="https://alekseykostikov66.github.io/">
+
+  <meta property="og:type" content="book">
+  <meta property="og:site_name" content="El Collar o el Amanecer">
+  <meta property="og:title" content="El Collar o el Amanecer — Cómo recuperar tu voz en la era de las cadenas digitales">
+  <meta property="og:description" content="Un breve libro sobre el colapso de la democracia, el collar digital CBDC y el Ecosistema DAO con un asesor de IA. Del diagnóstico — a la solución.">
+  <meta property="og:url" content="https://alekseykostikov66.github.io/es/">
+  <meta property="og:image" content="https://alekseykostikov66.github.io/img/og-cover.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="El Collar o el Amanecer — portada del libro">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:locale:alternate" content="ru_RU">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <meta property="og:locale:alternate" content="de_DE">
+  <meta property="og:locale:alternate" content="fr_FR">
+  <meta property="og:locale:alternate" content="ar_AR">
+  <meta property="og:locale:alternate" content="zh_CN">
+
+  <meta property="book:author" content="Aleksey Kostikov">
+  <meta property="book:tag" content="democracia">
+  <meta property="book:tag" content="DAO">
+  <meta property="book:tag" content="blockchain">
+  <meta property="book:tag" content="CBDC">
+  <meta property="book:tag" content="libertad">
+  <meta property="book:release_date" content="2026-10-10">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@abkostikov">
+  <meta name="twitter:creator" content="@abkostikov">
+  <meta name="twitter:title" content="El Collar o el Amanecer — Cómo recuperar tu voz">
+  <meta name="twitter:description" content="Un breve libro sobre el colapso de la democracia, el collar digital CBDC y el Ecosistema DAO con un asesor de IA.">
+  <meta name="twitter:image" content="https://alekseykostikov66.github.io/img/og-cover.jpg">
+  <meta name="twitter:image:alt" content="El Collar o el Amanecer — portada del libro">
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%238b2e2e'/%3E%3Ctext x='50' y='68' font-size='62' text-anchor='middle' fill='%23f5efe2' font-family='Georgia,serif'%3E◈%3C/text%3E%3C/svg%3E">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%238b2e2e'/%3E%3Ctext x='50' y='68' font-size='62' text-anchor='middle' fill='%23f5efe2' font-family='Georgia,serif'%3E◈%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://t.me" crossorigin>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Book",
+        "@id": "https://alekseykostikov66.github.io/es/#book",
+        "name": "El Collar o el Amanecer",
+        "alternateName": "Cómo recuperar tu voz en la era de las cadenas digitales",
+        "description": "Un breve libro sobre el colapso de la democracia representativa, el control digital mediante las CBDC y el Ecosistema DAO en blockchain con un asesor de IA.",
+        "bookFormat": "https://schema.org/EBook",
+        "inLanguage": "es",
+        "numberOfPages": 40,
+        "genre": ["Política", "Filosofía", "Tecnología", "Ensayos"],
+        "keywords": "democracia, DAO, blockchain, CBDC, libertad, soberanía popular, control digital, descentralización",
+        "datePublished": "2026-10-10",
+        "author": {
+          "@type": "Person",
+          "name": "Aleksey Kostikov",
+          "url": "https://t.me/narodnoe_samoderjavie",
+          "sameAs": [
+            "https://twitter.com/abkostikov",
+            "https://vk.com/abkostikov",
+            "https://ok.ru/abkostikov",
+            "https://instagram.com/abkostikov",
+            "https://facebook.com/abkostikov"
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Soberanía Popular",
+          "url": "https://t.me/s/narodnoe_samoderjavie"
+        },
+        "image": "https://alekseykostikov66.github.io/img/og-cover.jpg",
+        "url": "https://alekseykostikov66.github.io/es/",
+        "hasPart": [
+          { "@type": "Chapter", "name": "Prólogo. El espectáculo en el que nos dieron el papel de espectadores", "position": 0 },
+          { "@type": "Chapter", "name": "Capítulo 1. Teatro del absurdo: cómo las elecciones se convirtieron en un espectáculo", "position": 1 },
+          { "@type": "Chapter", "name": "Capítulo 2. El votante que desaparece: el poder entre elecciones", "position": 2 },
+          { "@type": "Chapter", "name": "Capítulo 3. La correa digital: por qué la comodidad es más peligrosa que las cadenas", "position": 3 },
+          { "@type": "Chapter", "name": "Capítulo 4. El Tercer Collar: De Quienes Comercian con Dios", "position": 4 },
+          { "@type": "Chapter", "name": "Capítulo 5. Odres nuevos para vino viejo", "position": 5 },
+          { "@type": "Chapter", "name": "Capítulo 6. Una persona — un voto", "position": 6 },
+          { "@type": "Chapter", "name": "Capítulo 7. 49 y 51: una economía donde nadie puede convertirse en amo", "position": 7 },
+          { "@type": "Chapter", "name": "Capítulo 8. Un asesor, no un dictador", "position": 8 },
+          { "@type": "Chapter", "name": "Epílogo. El amanecer comienza con uno", "position": 9 }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://alekseykostikov66.github.io/es/#website",
+        "url": "https://alekseykostikov66.github.io/es/",
+        "name": "El Collar o el Amanecer",
+        "inLanguage": "es",
+        "publisher": { "@id": "https://alekseykostikov66.github.io/es/#book" }
+      }
+    ]
+  }
+  </script>
+
+  <style>
+:root {
+  --bg: #f5efe2; --bg-alt: #fbf7ee; --paper: #fffdf7;
+  --ink: #2b2722; --ink-soft: #57504a; --ink-muted: #8a817a;
+  --accent: #8b2e2e; --accent-soft: #b85a5a;
+  --line: #e3d8c5; --line-strong: #cbbda3;
+  --shadow: 0 2px 8px rgba(43,39,34,0.06), 0 12px 32px rgba(43,39,34,0.06);
+  --radius: 14px; --maxw: 760px; --sidebar-w: 260px; --social-w: 78px;
+  --serif: Georgia, "Iowan Old Style", "Times New Roman", "Noto Serif", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 90px; }
+body { margin: 0; font-family: var(--serif); font-size: 19px; line-height: 1.75; color: var(--ink); background: var(--bg); -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+.progress-bar { position: fixed; top: 0; left: 0; height: 3px; width: 0%; background: var(--accent); z-index: 200; transition: width 0.12s linear; }
+.lang-switch { position: fixed; top: 12px; right: 18px; display: flex; gap: 4px; z-index: 180; background: rgba(255,253,247,0.94); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); padding: 5px 6px; border-radius: 999px; border: 1px solid var(--line-strong); box-shadow: var(--shadow); font-family: var(--sans); }
+.lang-switch a { font-size: 11px; font-weight: 600; letter-spacing: 0.04em; color: var(--ink-soft); text-decoration: none; padding: 4px 8px; border-radius: 999px; transition: background 0.15s, color 0.15s; text-transform: uppercase; }
+.lang-switch a:hover { background: var(--line); color: var(--ink); }
+.lang-switch a.active { background: var(--accent); color: #fff; }
+.sidebar-left { position: fixed; top: 0; left: 0; bottom: 0; width: var(--sidebar-w); background: var(--bg-alt); border-right: 1px solid var(--line); padding: 32px 24px 24px; overflow-y: auto; z-index: 100; }
+.sidebar-inner { display: flex; flex-direction: column; min-height: 100%; }
+.brand { display: inline-flex; align-items: center; gap: 8px; font-family: var(--sans); font-size: 15px; font-weight: 600; color: var(--ink); text-decoration: none; line-height: 1.25; }
+.brand:hover { color: var(--accent); }
+.brand-mark { color: var(--accent); font-size: 16px; flex-shrink: 0; }
+.brand-sub { font-family: var(--sans); font-size: 11px; letter-spacing: 0.24em; text-transform: uppercase; color: var(--ink-muted); margin: 4px 0 28px; }
+.toc-nav { display: flex; flex-direction: column; gap: 2px; padding-top: 16px; border-top: 1px solid var(--line); }
+.toc-nav a { display: flex; align-items: baseline; gap: 10px; font-family: var(--sans); font-size: 13.5px; color: var(--ink-soft); text-decoration: none; padding: 9px 10px; border-radius: 8px; transition: background 0.15s, color 0.15s; line-height: 1.35; }
+.toc-nav a:hover { background: var(--paper); color: var(--ink); }
+.toc-nav a.active { background: var(--accent); color: #fff; }
+.toc-nav a.active .toc-num { color: #fff; opacity: 0.85; }
+.toc-num { display: inline-block; min-width: 18px; font-size: 11px; font-weight: 600; color: var(--accent); opacity: 0.7; text-align: center; flex-shrink: 0; }
+.sidebar-foot { margin-top: auto; padding-top: 24px; font-family: var(--sans); font-size: 10px; letter-spacing: 0.14em; color: var(--ink-muted); text-transform: lowercase; }
+.sidebar-right { position: fixed; top: 50%; right: 18px; transform: translateY(-50%); display: flex; flex-direction: column; align-items: center; gap: 10px; z-index: 100; padding: 4px; }
+.social-label { font-family: var(--sans); font-size: 9.5px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ink-muted); writing-mode: vertical-rl; transform: rotate(180deg); margin-bottom: 4px; }
+.social-line { width: 1px; height: 22px; background: var(--line-strong); }
+.social-handle { font-family: var(--sans); font-size: 10px; letter-spacing: 0.04em; color: var(--ink-muted); writing-mode: vertical-rl; transform: rotate(180deg); margin-top: 4px; }
+.social { display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; background: var(--paper); border: 1px solid var(--line-strong); color: var(--ink-soft); text-decoration: none; font-family: var(--sans); font-size: 11px; font-weight: 700; transition: transform 0.15s, background 0.15s, color 0.15s, border-color 0.15s, box-shadow 0.15s; box-shadow: 0 1px 3px rgba(43,39,34,0.05); }
+.social svg { fill: currentColor; }
+.social-ig svg { fill: none; }
+.social:hover { transform: translateY(-2px) scale(1.05); color: #fff; border-color: transparent; box-shadow: 0 6px 16px rgba(43,39,34,0.18); }
+.social-tg:hover { background: #229ED9; }
+.social-ok:hover { background: #EE8208; }
+.social-vk:hover { background: #0077FF; }
+.social-ig:hover { background: #E1306C; }
+.social-tw:hover { background: #0f0f0f; }
+.social-fb:hover { background: #1877F2; }
+.mobile-header { display: none; position: sticky; top: 0; z-index: 150; background: rgba(245,239,226,0.96); backdrop-filter: saturate(140%) blur(8px); -webkit-backdrop-filter: saturate(140%) blur(8px); border-bottom: 1px solid var(--line); }
+.mobile-inner { display: flex; align-items: center; justify-content: space-between; padding: 12px 18px; gap: 12px; min-height: 56px; }
+.brand-mobile { font-size: 14px; flex: 1; min-width: 0; }
+.brand-mobile .brand-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.menu-toggle { width: 40px; height: 40px; background: transparent; border: 1px solid var(--line-strong); border-radius: 8px; cursor: pointer; padding: 9px 8px; display: flex; flex-direction: column; justify-content: space-between; flex-shrink: 0; }
+.menu-toggle span { display: block; height: 2px; background: var(--ink); border-radius: 2px; transition: transform 0.2s, opacity 0.2s; }
+.menu-toggle.open span:nth-child(1) { transform: translateY(9px) rotate(45deg); }
+.menu-toggle.open span:nth-child(2) { opacity: 0; }
+.menu-toggle.open span:nth-child(3) { transform: translateY(-9px) rotate(-45deg); }
+.mobile-nav { display: flex; flex-direction: column; gap: 0; background: var(--paper); border-top: 1px solid var(--line); padding: 0 12px; max-height: 0; overflow: hidden; transition: max-height 0.28s ease, padding 0.28s ease; }
+.mobile-nav.open { max-height: 70vh; overflow-y: auto; padding-top: 8px; padding-bottom: 14px; }
+.mobile-nav a { font-family: var(--sans); font-size: 14.5px; color: var(--ink-soft); text-decoration: none; padding: 12px 14px; border-radius: 8px; transition: background 0.15s, color 0.15s; }
+.mobile-nav a:hover, .mobile-nav a.active { background: var(--accent); color: #fff; }
+.main-content { margin-left: var(--sidebar-w); margin-right: var(--social-w); min-height: 100vh; }
+.cover { padding: 96px 24px 64px; text-align: center; background: radial-gradient(ellipse at 50% 0%, rgba(139,46,46,0.06), transparent 55%), linear-gradient(180deg, var(--bg-alt), var(--bg)); border-bottom: 1px solid var(--line); }
+.cover-inner { max-width: 620px; margin: 0 auto; }
+.cover-kicker { font-family: var(--sans); font-size: 12px; letter-spacing: 0.28em; text-transform: uppercase; color: var(--accent); margin: 0 0 20px; }
+.cover-title { font-family: var(--serif); font-size: clamp(40px, 6vw, 64px); line-height: 1.05; margin: 0 0 18px; font-weight: 400; letter-spacing: -0.01em; }
+.cover-subtitle { font-size: clamp(17px, 2.2vw, 21px); color: var(--ink-soft); margin: 0 0 14px; font-style: italic; }
+.cover-tagline { font-family: var(--sans); font-size: 14px; color: var(--ink-muted); line-height: 1.6; margin: 0 0 42px; }
+.cover-toc { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding-top: 26px; border-top: 1px solid var(--line); }
+.cover-toc a { font-family: var(--sans); font-size: 12px; color: var(--ink-soft); text-decoration: none; padding: 5px 11px; border: 1px solid var(--line-strong); border-radius: 999px; transition: all 0.15s; }
+.cover-toc a:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+.book { max-width: var(--maxw); margin: 0 auto; padding: 20px 32px 60px; }
+.chapter { padding: 60px 0 40px; border-bottom: 1px solid var(--line); }
+.chapter:last-child { border-bottom: none; }
+.chapter-header { text-align: center; margin-bottom: 34px; }
+.chapter-number { display: inline-block; font-family: var(--sans); font-size: 12px; letter-spacing: 0.24em; text-transform: uppercase; color: var(--accent); margin-bottom: 14px; }
+.chapter-header h2 { font-family: var(--serif); font-size: clamp(26px, 3.4vw, 36px); line-height: 1.2; margin: 0; font-weight: 400; letter-spacing: -0.005em; }
+.chapter p { margin: 0 0 1.35em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+.chapter p:first-of-type::first-letter { font-size: 3.2em; line-height: 0.9; float: left; padding: 6px 10px 0 0; font-weight: 400; color: var(--accent); }
+.chapter-image { margin: 0 0 34px; border-radius: var(--radius); overflow: hidden; background: var(--bg-alt); border: 1px solid var(--line); box-shadow: var(--shadow); aspect-ratio: 16/9; position: relative; }
+.chapter-image img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.chapter-image.image-missing::before { content: "📷  La imagen aparecerá aquí"; position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-family: var(--sans); font-size: 13px; color: var(--ink-muted); letter-spacing: 0.05em; background: repeating-linear-gradient(45deg, #efe6d3 0 20px, #eadfc8 20px 40px); }
+.chapter-image.image-missing img { opacity: 0; }
+.site-footer { max-width: var(--maxw); margin: 0 auto; padding: 50px 32px 70px; text-align: center; font-family: var(--sans); font-size: 13px; color: var(--ink-muted); border-top: 1px solid var(--line); }
+.footer-title { font-size: 13px; color: var(--ink-soft); margin: 0 0 20px; }
+.footer-socials { display: none; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 0 0 20px; }
+.footer-handle { font-size: 12px; color: var(--accent-soft); margin: 0 0 10px; letter-spacing: 0.04em; }
+.footer-hash { font-size: 11.5px; color: var(--ink-muted); word-break: break-word; line-height: 1.7; margin: 0; }
+.to-top { position: fixed; right: 20px; bottom: 20px; width: 46px; height: 46px; border-radius: 50%; border: 1px solid var(--line-strong); background: var(--paper); color: var(--ink); font-size: 20px; cursor: pointer; opacity: 0; pointer-events: none; transform: translateY(10px); transition: opacity 0.25s, transform 0.25s, background 0.15s, color 0.15s; box-shadow: var(--shadow); z-index: 120; }
+.to-top.show { opacity: 1; pointer-events: auto; transform: translateY(0); }
+.to-top:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+@media (max-width: 1100px) {
+  .sidebar-left, .sidebar-right { display: none; }
+  .mobile-header { display: block; }
+  .main-content { margin-left: 0; margin-right: 0; }
+  .footer-socials { display: flex; }
+  .cover { padding: 56px 20px 44px; }
+  .book { padding: 10px 22px 50px; }
+  .chapter { padding: 44px 0 32px; }
+  html { scroll-padding-top: 76px; }
+  .lang-switch { top: auto; bottom: 76px; right: 14px; }
+}
+@media (max-width: 560px) {
+  body { font-size: 17px; }
+  .cover-title { font-size: 38px; }
+  .cover-subtitle { font-size: 16px; }
+  .chapter-header h2 { font-size: 23px; }
+  .chapter-number { font-size: 11px; }
+  .book { padding: 8px 18px 40px; }
+  .chapter { padding: 40px 0 28px; }
+  .chapter p { text-align: left; }
+  .chapter p:first-of-type::first-letter { font-size: 2.6em; padding: 4px 8px 0 0; }
+  .chapter-image { aspect-ratio: 4/3; }
+  .site-footer { padding: 40px 18px 60px; }
+  .to-top { width: 42px; height: 42px; right: 14px; bottom: 14px; font-size: 18px; }
+  .lang-switch { bottom: 70px; }
+}
+@media print {
+  .sidebar-left, .sidebar-right, .mobile-header, .to-top,
+  .progress-bar, .cover-toc, .footer-socials, .lang-switch { display: none !important; }
+  body { background: #fff; font-size: 12pt; color: #000; }
+  .main-content { margin: 0; }
+  .chapter { page-break-after: always; border: none; padding: 0; }
+  .chapter-image { box-shadow: none; aspect-ratio: auto; }
+}
+  </style>
+</head>
+<body>
+
+  <div class="progress-bar" id="progressBar"></div>
+
+  <nav class="lang-switch" aria-label="Idioma">
+    <a href="../index.html" hreflang="ru" lang="ru" title="Русский">RU</a>
+    <a href="../en/index.html" hreflang="en" lang="en" title="English">EN</a>
+    <a href="index.html" class="active" hreflang="es" lang="es" title="Español">ES</a>
+    <a href="../pt/index.html" hreflang="pt" lang="pt" title="Português">PT</a>
+    <a href="../de/index.html" hreflang="de" lang="de" title="Deutsch">DE</a>
+    <a href="../fr/index.html" hreflang="fr" lang="fr" title="Français">FR</a>
+    <a href="../ar/index.html" hreflang="ar" lang="ar" title="العربية">AR</a>
+    <a href="../zh/index.html" hreflang="zh" lang="zh" title="中文">ZH</a>
+  </nav>
+
+  <aside class="sidebar-left" aria-label="Índice">
+    <div class="sidebar-inner">
+      <a href="#top" class="brand">
+        <span class="brand-mark">◈</span>
+        <span class="brand-text">El Collar o&nbsp;el Amanecer</span>
+      </a>
+      <p class="brand-sub">breve libro</p>
+      <nav class="toc-nav">
+        <a href="#prolog"><span class="toc-num">∅</span>Prólogo</a>
+        <a href="#chapter-1"><span class="toc-num">1</span>Teatro del absurdo</a>
+        <a href="#chapter-2"><span class="toc-num">2</span>El votante que desaparece</a>
+        <a href="#chapter-3"><span class="toc-num">3</span>La correa digital</a>
+        <a href="#chapter-4"><span class="toc-num">4</span>Odres nuevos</a>
+        <a href="#chapter-5"><span class="toc-num">5</span>Odres nuevos</a>
+        <a href="#chapter-6"><span class="toc-num">6</span>Una persona</a>
+        <a href="#chapter-7"><span class="toc-num">7</span>49 y 51</a>
+        <a href="#chapter-8"><span class="toc-num">8</span>El asesor</a>
+        <a href="#epilog"><span class="toc-num">∞</span>Epílogo</a>
+        <a href="#chapter-5"><span class="toc-num">5</span>Una persona</a>
+        <a href="#chapter-6"><span class="toc-num">6</span>49 y 51</a>
+        <a href="#chapter-7"><span class="toc-num">7</span>El asesor</a>
+        <a href="#epilog"><span class="toc-num">∞</span>Epílogo</a>
+      </nav>
+      <p class="sidebar-foot">#soberaníapopular</p>
+    </div>
+  </aside>
+
+  <aside class="sidebar-right" aria-label="Compartir">
+    <span class="social-label">Compartir</span>
+    <span class="social-line"></span>
+    <a class="social social-tg" href="https://t.me/s/narodnoe_samoderjavie" target="_blank" rel="noopener" aria-label="Canal de Telegram" title="Telegram · Soberanía Popular">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>
+    </a>
+    <a class="social social-ok" href="https://ok.ru/abkostikov" target="_blank" rel="noopener" aria-label="Odnoklassniki"><span>OK</span></a>
+    <a class="social social-vk" href="https://vk.com/abkostikov" target="_blank" rel="noopener" aria-label="VK"><span>VK</span></a>
+    <a class="social social-ig" href="https://instagram.com/abkostikov" target="_blank" rel="noopener" aria-label="Instagram">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+    </a>
+    <a class="social social-tw" href="https://twitter.com/abkostikov" target="_blank" rel="noopener" aria-label="Twitter / X">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M17.53 3H20.5l-6.5 7.43L21.7 21h-6.2l-4.85-6.34L5.1 21H2.13l6.96-7.94L2 3h6.36l4.38 5.79L17.53 3zm-1.09 16.2h1.65L7.63 4.7H5.86l10.58 14.5z"/></svg>
+    </a>
+    <a class="social social-fb" href="https://facebook.com/abkostikov" target="_blank" rel="noopener" aria-label="Facebook">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+    </a>
+    <span class="social-line"></span>
+    <span class="social-handle">@abkostikov</span>
+  </aside>
+
+  <header class="mobile-header">
+    <div class="mobile-inner">
+      <a href="#top" class="brand brand-mobile">
+        <span class="brand-mark">◈</span>
+        <span class="brand-text">El Collar o&nbsp;el Amanecer</span>
+      </a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menú" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <nav class="mobile-nav" id="mobileNav">
+      <a href="#prolog">Prólogo</a>
+      <a href="#chapter-1">1. Teatro del absurdo</a>
+      <a href="#chapter-2">2. El votante que desaparece</a>
+      <a href="#chapter-3">3. La correa digital</a>
+      <a href="#chapter-4">4. Odres nuevos</a>
+      <a href="#chapter-5">5. Odres nuevos</a>
+      <a href="#chapter-6">6. Una persona</a>
+      <a href="#chapter-7">7. 49 y 51</a>
+      <a href="#chapter-8">8. El asesor</a>
+      <a href="#epilog">Epílogo</a>
+      <a href="#chapter-5">5. Una persona</a>
+      <a href="#chapter-6">6. 49 y 51</a>
+      <a href="#chapter-7">7. El asesor</a>
+      <a href="#epilog">Epílogo</a>
+    </nav>
+  </header>
+
+  <main class="main-content" id="top">
+
+    <section class="cover">
+      <div class="cover-inner">
+        <p class="cover-kicker">Breve libro</p>
+        <h1 class="cover-title">El Collar<br>o el Amanecer</h1>
+        <p class="cover-subtitle">Cómo recuperar tu voz en la era de las cadenas digitales</p>
+        <p class="cover-tagline">Del colapso de la democracia representativa<br>al Ecosistema DAO</p>
+        <div class="cover-toc">
+          <a href="#prolog">Prólogo</a>
+          <a href="#chapter-1">Capítulo 1</a>
+          <a href="#chapter-2">Capítulo 2</a>
+          <a href="#chapter-3">Capítulo 3</a>
+          <a href="#chapter-4">Capítulo 4</a>
+          <a href="#chapter-5">Capítulo 5</a>
+          <a href="#chapter-6">Capítulo 6</a>
+          <a href="#chapter-7">Capítulo 7</a>
+          <a href="#chapter-8">Capítulo 8</a>
+          <a href="#epilog">Epílogo</a>
+          <a href="#chapter-5">Capítulo 5</a>
+          <a href="#chapter-6">Capítulo 6</a>
+          <a href="#chapter-7">Capítulo 7</a>
+          <a href="#epilog">Epílogo</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="book">
+
+      <article class="chapter" id="prolog">
+        <header class="chapter-header">
+          <span class="chapter-number">Prólogo</span>
+          <h2>El espectáculo en el que nos dieron el papel de espectadores</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/01-prolog.jpg" alt="Prólogo — un hombre solo junto a la ventana" loading="lazy"></figure>
+        <p>¿Por qué te sientes mal? No te apresures a responder. No pregunto por el cansancio después del trabajo, ni por el dinero que no alcanza hasta el día de pago, ni por la salud que a veces falla. Todo eso es comprensible y conocido por todos. Pregunto por otra cosa — por esa sensación vaga y dolorosa que apartas de ti por las mañanas, cuando miras al techo y no quieres levantarte. No tiene nombre, pero existe. Y tú sabes de qué hablo.</p>
+        <p>Quizás sea porque haces todo bien y no hay resultado. Trabajas, pagas impuestos, obedeces las leyes, votas en las elecciones — y aun así sientes que nada depende de ti. Que las decisiones que determinan tu vida se toman en algún lugar de ahí fuera, sin ti y no para ti. Es como si jugaras a un juego cuyas reglas escribieron otros, y a ti te dejaran el papel de extra. Asentir, aplaudir, volver a casa. Y así en círculo.</p>
+        <p>Quizás sea porque te prometen y luego se olvidan. Cada pocos años vienen personas con palabras hermosas, piden tu confianza, obtienen tu voto — y desaparecen. Solo vuelven antes de las siguientes elecciones, con nuevas promesas. Ya no les crees, pero vas igual, porque la alternativa — no ir en absoluto — es aún peor. Así vives entre la decepción y la costumbre. Y eso tampoco es la respuesta a por qué te sientes mal.</p>
+        <p>Quizás sea porque sientes que el espacio de libertad se encoge. No de forma brusca ni ruda, sino suave e imperceptible. Primero cancelaron el efectivo en un lugar, luego en otro. Después dijeron que la cartera digital era más cómoda. Luego explicaron que ciertas compras debían restringirse — por tu propia seguridad. No te diste cuenta de cómo acabaste en un sistema donde cada paso tuyo deja rastro y del que ya no se puede salir. El collar no se pone por la fuerza — se ofrece como un regalo.</p>
+        <p>O quizás sea porque estás solo. No en el sentido de la soledad física — hay personas alrededor, familia, colegas. Sino en el sentido de la ausencia de una comunidad donde tu voz signifique algo, donde te escuchen, donde no seas una función sino una persona. Hemos desaprendido a estar juntos. Hemos aprendido a ser público. Mirar, deslizar, dar me gusta, comprar. Pero no decidir. No influir. No construir algo común. Y de esto crece dentro un vacío que nada llena, por muchos entretenimientos que el sistema te deslice por debajo de la nariz.</p>
+        <p>Por eso te sientes mal. No porque seas débil o perezoso. Sino porque eres una persona viva en un sistema que ve en ti solo un recurso. Porque tu voz no decide nada, tu dinero no te pertenece y tu libertad es un decorado detrás del cual hace tiempo hay vacío. Lo sientes, aunque no puedas formularlo. Y este sentimiento no es una enfermedad. Es una señal. Es tu humanidad, que se niega a aceptar el papel de espectador.</p>
+        <p>Este libro no es una queja ni una profecía del fin del mundo. Es un intento de entender: cómo llegamos aquí, quién y por qué aprieta el collar y, sobre todo, qué se puede hacer. No mañana, no algún día, sino ahora. Porque hay una salida, y no está en esperar a un salvador ni en amotinarse en una plaza. Está en construir otra cosa — desde abajo, juntos, por reglas honestas. Pero antes de hablar de la solución, hay que nombrar honestamente el problema. De eso nos ocuparemos. Empecemos por el principio — por el espectáculo en el que nos dieron el papel de espectadores.</p>
+      </article>
+
+      <article class="chapter" id="chapter-1">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 1</span>
+          <h2>Teatro del absurdo: cómo las elecciones se convirtieron en un espectáculo</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/02-glava-1.jpg" alt="Capítulo 1 — sala teatral con marionetas" loading="lazy"></figure>
+        <p>Todo comienza con una admisión simple y honesta que la humanidad hizo hace muchos siglos: el pueblo no puede gobernarse a sí mismo. Demasiadas personas, demasiados intereses diferentes, demasiado poco tiempo para ponerse de acuerdo. Así que acordamos: elegiremos a quienes gobernarán por nosotros. Cada pocos años iremos al colegio electoral, pondremos una marca en la papeleta, les entregaremos el poder — y viviremos en paz. La idea era hermosa. El problema es que el mecanismo inventado para la transferencia honesta del poder hace mucho se convirtió en otra cosa.</p>
+        <p>Mire una campaña electoral sin prejuicios y verá no una competencia de programas sino un espectáculo. Eslóganes, lágrimas ante la cámara, escándalos pre-guionizados, revelaciones que salen a la superficie exactamente en el momento preciso. Gana no quien tiene el mejor plan para el país, sino quien tiene el mejor director, la voz más fuerte y más dinero para publicidad. Votamos no por ideas sino por una imagen. No por contenido sino por envoltorio. Y luego nos sorprendemos de por qué nada cambia después de las elecciones. La respuesta es simple: porque elegimos no al que resolvería nuestros problemas, sino al que interpreta el papel con más belleza.</p>
+        <p>Y ahora asomémonos tras bambalinas de este teatro. En Estados Unidos, el cabildeo es una profesión legal. Una corporación contrata a una persona que camina por los despachos de los congresistas y los "convence" de votar como es debido. No con argumentos — con dinero para la siguiente campaña. Las farmacéuticas pagan cientos de millones para que los precios de los medicamentos no bajen. Los fabricantes de armas — para que crezca el presupuesto militar. Y esto no es corrupción clandestina. Es un negocio oficial con oficinas, sitios web e informes anuales. Todo transparente. Todo legal. Y es precisamente esto lo que determina qué leyes se aprueban y cuáles se entierran en los comités para siempre.</p>
+        <p>Alguien dirá: ese es el problema de un país, en el nuestro es distinto. No es distinto. El decorado cambia, pero la esencia permanece. Dondequiera que el poder pueda comprarse — con un pago directo o a través de una campaña — será comprado. Dondequiera que una decisión dependa de una persona, se formará una cola de quienes tienen recursos. No porque todos los políticos sean corruptos, sino porque el sistema está construido así. Recompensa a quienes saben tratar con el dinero y exprime a quienes vinieron con intenciones limpias. En uno o dos años, una persona limpia se vuelve igual que sus predecesores. O se va.</p>
+        <p>Lo más amargo aquí no es que nos engañen. Solo se puede engañar a quien cree. Lo más amargo es que nosotros mismos aceptamos este papel. Vemos los debates como una serie y discutimos a los candidatos como personajes. Esperamos a un "líder fuerte" que arregle todo, en lugar de preguntar: ¿por qué en absoluto le damos a alguien el derecho de decidir por nosotros? ¿Por qué nuestra voz desaparece entre elecciones? ¿Por qué en los comités donde se deciden las cuestiones importantes no estamos nosotros, sino aquellos a quienes nunca elegimos?</p>
+        <p>La democracia representativa no falló como idea. Falló como mecanismo. La idea era que elegimos a los dignos y confiamos en ellos. El mecanismo resultó ser que elegimos al que se vende mejor, y las decisiones las toma el dinero. El sistema digiere a cualquiera que entra en él — y solo cambian las caras. Caras nuevas, reglas viejas. Promesas frescas, el mismo resultado. Este es el teatro del absurdo: todos saben que la obra está montada, pero siguen interpretando sus papeles, porque no se ve ninguna alternativa.</p>
+        <p>Pero hay una alternativa. Y para verla, primero hay que nombrar honestamente el problema hasta el final. No solo que las elecciones se convirtieron en espectáculo. Sino que el poder desaparece entre elecciones — y junto con él, desaparecemos también nosotros. De eso trata el siguiente capítulo. Por ahora, recordemos lo principal: lo que se llama democracia resulta cada vez más ser una obra con un final conocido. Y ese final no fue escrito para nosotros ni por nosotros.</p>
+      </article>
+
+      <article class="chapter" id="chapter-2">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 2</span>
+          <h2>El votante que desaparece: el poder entre elecciones</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/03-glava-2.jpg" alt="Capítulo 2 — sala parlamentaria vacía" loading="lazy"></figure>
+        <p>Entonces pasaron las elecciones. Las fanfarrias se apagaron, las promesas se desvanecieron, los ganadores dieron sus discursos, los perdedores reconocieron la derrota. Y llegó el silencio. Ese mismo silencio en el que desaparece el votante. Nadie lo recuerda. Nadie habla de él. Nadie se dirige a él. Vuelve a ser lo que era antes de la campaña — fondo. Contribuyente, ejecutor de leyes, fuente de recursos.</p>
+        <p>Piensa: ¿dónde estás en el momento en que se toma una decisión que cambiará tu vida? No estás en la sala. No estás en el despacho. No estás en el comité. Estás en el trabajo, en el metro, en la cocina. Lees la noticia de que el impuesto ha subido, la tarifa ha aumentado, el beneficio ha sido cancelado, la ley ha sido aprobada. Te enteras de la decisión cuando ya está tomada. No te preguntaron. No lo discutieron. No te invitaron a hablar. Simplemente lo anunciaron — como se anuncia el tiempo. No porque te hayan olvidado. Porque en esta construcción no se supone que estés.</p>
+        <p>Entre elecciones, el poder pasa a manos de quienes nadie eligió. Funcionarios, asesores, expertos, comités, comisiones. No responden ante el votante directamente. No se les puede enviar a casa con un solo voto. Se sientan en sus puestos durante años, décadas, y sus decisiones se acumulan como capas de roca sedimentaria. Vivimos en un mundo construido por esas decisiones — y casi nunca tenemos ocasión de impugnarlas. Votar una vez cada cuatro años no es poder. Es una ilusión de participación.</p>
+        <p>Alguien objetará: tenemos la posibilidad de escribir peticiones, salir a manifestarnos, exigir. Sí, la posibilidad existe. Pero funciona como válvula de seguridad, no como palanca. El sistema deja escapar el vapor para que no reviente la caldera. Puedes escribir — te darán las gracias cortésmente y responderán con una fórmula vacía. Puedes salir a la calle — te dispersarán o simplemente esperarán a que te canses. Nada cambiará, porque el mecanismo de decisión no está donde tú te diriges. Está cerrado. Está dentro. Y a ti no te invitan a entrar.</p>
+        <p>Este es el verdadero problema de la democracia representativa. No que las elecciones estén amañadas o los candidatos mientan. Sino que entre elecciones tú no existes como sujeto político. Te transformas en objeto de gobierno. Trabajan contigo como trabajan con el tiempo: te tienen en cuenta, te pronostican, te regulan. Pero no te preguntan. Y cuando lo comprendes, llega esa sensación vaga de la que hablábamos en el prólogo. La sensación de que no estás en tu propia vida. De que las decisiones se tomaron por ti en algún lugar de ahí fuera, donde no estuviste y no estarás.</p>
+        <p>¿Se puede arreglar esto desde dentro del sistema? Honestamente — casi no. Puedes elegir a otros diputados. Vendrán, chocarán con la misma máquina y o se romperán o se integrarán. Puedes cambiar de partido. Los partidos cambian, la burocracia permanece. Puedes exigir reformas. Las reformas las escribirán las mismas personas interesadas en que nada cambie. Lo único que cambiará de verdad son las caras en las pantallas. El mecanismo seguirá igual. Y el votante desaparecerá de nuevo el día después de la votación.</p>
+        <p>Por eso la pregunta debe plantearse de otro modo. No «cómo arreglar este sistema», sino «cómo construir otro». No «cómo hacer que el poder nos escuche», sino «cómo hacer que el poder sea nuestro». Suena radical, pero en realidad es solo un cambio de óptica. Hemos intentado durante demasiado tiempo reparar lo que está roto no en los detalles, sino en el fundamento. Es hora de preguntar: ¿y si la participación no tuviera que terminar en el boletín? ¿Y si la voz pudiera sonar cada día, y no una vez cada cuatro años?</p>
+        <p>Hacia allí nos dirigimos. Pero antes de hablar de la solución, debemos ocuparnos del segundo collar — el que aprieta imperceptiblemente, bajo el pretexto de la comodidad. Porque aunque recuperemos nuestra voz, si perdemos el control de nuestro dinero, la libertad se revelará vacía. De eso trata el próximo capítulo.</p>
+      </article>
+
+      <article class="chapter" id="chapter-3">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 3</span>
+          <h2>La correa digital: por qué la comodidad es más peligrosa que las cadenas</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/04-glava-3.jpg" alt="Capítulo 3 — collar digital CBDC" loading="lazy"></figure>
+        <p>Recuerda cómo te convencieron para pasar de los documentos en papel a los electrónicos. Es cómodo, decían. No hay que hacer cola, no hay que llevar carpetas, todo a mano, todo en un solo lugar. Era verdad. Pero había otro lado, del que entonces no hablaron. Hoy no puedes recibir un servicio sin internet. No puedes confirmar tu identidad sin un teléfono inteligente. No puedes comprar un billete, pedir cita médica o tramitar un documento si el sistema no está disponible. La comodidad se convirtió en dependencia. Y lo mismo se prepara para el dinero — solo que a mayor escala.</p>
+        <p>La moneda digital del banco central se presenta como el siguiente paso del progreso. No hay que llevar cartera, no hay que contar cambio, no se puede perder el efectivo, todas las transacciones están protegidas. Suena razonable. Pero detrás de la comodidad siempre hay algo. Y aquí ese algo es una propiedad radicalmente nueva del dinero, que nunca tuvo antes. El efectivo es una cosa. Puedes esconderlo, regalarlo, perderlo, quemarlo. La moneda digital es un apunte en el registro de otro. Y ese apunte adquiere lo que el papel nunca tuvo: programabilidad.</p>
+        <p>¿Qué significa programabilidad? Significa que el dinero adquiere propiedades que antes no existían. Se puede fijar una fecha de caducidad: no lo gastaste en un mes — se quemó. Se puede limitar el área: gastar solo en tu ciudad, tu barrio, tu país. Se puede asignar un fin: estos fondos — solo para comida, y aquellos — solo para tratamiento. Se puede desconectar por una declaración inoportuna en redes sociales. Esto no es ciencia ficción. Son posibilidades técnicas que ya existen y se discuten en serio.</p>
+        <p>Imagina: el Estado decide que no eres suficientemente leal. No te mete en la cárcel — sería demasiado burdo y visible. Simplemente te corta el acceso a la cuenta. O restringe tus compras en tu barrio. O cancela parte de tu dinero como «no utilizado». Todo legal, todo técnicamente posible, todo explicado por preocupación por tu seguridad. Por eso a la moneda digital se la llama collar electrónico. No está en el bolsillo — está en tu cuello. Y ya no puedes quitártelo tú mismo.</p>
+        <p>Lo más peligroso aquí es la voluntariedad en la entrada. No te obligan de inmediato. Te ofrecen comodidad, cashback, rapidez, seguridad. Rechazar es incómodo, aceptar es agradable. Entras tú mismo, por tu propia voluntad, con la sensación de haber elegido lo mejor. Y luego descubres que no hay camino de vuelta. El efectivo desapareció, las tiendas pasaron al digital, los servicios solo están disponibles a través del sistema. Y de pronto comprendes: para vivir con normalidad, hay que estar dentro. Y dentro ya no eres el dueño — eres un usuario al que se puede desconectar.</p>
+        <p>Quien posee este sistema posee a todos. No en el sentido de conocer tus compras, sino en el de poder controlar tu comportamiento. Comprar — se puede, comprar esto — no. Ir allí — se puede, allí — no. Callar — es obligatorio. Este es el campo de concentración digital del que cada vez se habla más. No necesariamente con alambre de espino y torres de vigilancia. Basta con que el dinero deje de ser tuyo. Basta con que cada paso tuyo quede registrado y el sistema pueda en cualquier momento decidir que no mereces acceso a lo que ganaste.</p>
+        <p>Y aquí los dos collares se unen. El primero es político: tu voz no decide nada. El segundo es económico: tu dinero no te pertenece. Juntos crean una dependencia total. No puedes influir en las decisiones — y no puedes salir del sistema que las ejecuta. Estás encerrado. No en una cárcel, sino en un espacio digital cómodo donde todo funciona mientras eres obediente. Y esto es mucho más aterrador que la violencia abierta, porque no se parece a la violencia.</p>
+        <p>Pero hay salida. No consiste en renunciar a la tecnología — eso es imposible e innecesario. Consiste en construir otro sistema. Donde el dinero esté protegido no por promesas, sino por código. Donde la voz no pueda comprarse, quitarse ni desconectarse. Donde la persona vuelva a ser el dueño, y no el usuario. De eso tratan los próximos capítulos. Por ahora, recordemos algo simple: la comodidad por la que se entrega la libertad deja de ser comodidad. Se convierte en correa. Y cuanto más suave parece, más fuerte sujeta.</p>
+      </article>
+
+      <article class="chapter" id="chapter-4">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 4</span>
+          <h2>El Tercer Collar: De Quienes Comercian con Dios</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/04b-glava-4.jpg" alt="Capítulo 4 — Cristo expulsa a los mercaderes del templo" loading="lazy"></figure>
+        <p>Hemos examinado dos collares. El primero es político: tu voz no decide nada. El segundo es económico: tu dinero no te pertenece. Pero hay un tercero, del que se habla menos, porque es el más suave y el más profundo. No se aprieta en el cuello, sino en la conciencia. Y sostiene con más fuerza que todos los demás.</p>
+        <p>Empecemos por lo más importante: esto no va contra la fe. La fe es una conversación entre una persona y Dios. A solas. Sin intermediarios, sin tarifas, sin cola. La iglesia, en cambio, es una institución. Y toda institución que se interpone entre dos partes empieza a hablar no en nombre de Aquel a quien se dirige, sino en su propio nombre. Cristo no abrió oficinas. Caminaba por caminos polvorientos, dormía al aire libre, hablaba con pescadores y prostitutas. Y no tenía ni caja registradora, ni oficina de prensa, ni inmuebles en el centro de la ciudad.</p>
+        <p>Los propios profetas fueron los primeros en hablar de esto. Amós gritaba: «Aborrezco, desprecio vuestras fiestas». Isaías transmitía las palabras de Dios: «¿Para qué me sirve la multitud de vuestros sacrificios?» No eran las oraciones lo aborrecible, sino la sustitución. Cuando al lado hay un hambriento y al templo se lleva oro, el sacrificio se convierte en soborno. Cuando el tribunal está podrido pero las fiestas se guardan, el rito se convierte en pantalla. Por esto los profetas eran expulsados, golpeados, asesinados. No porque estuvieran contra Dios, sino porque estorbaban a quienes comerciaban con Su nombre.</p>
+        <p>Cristo tomó un látigo y expulsó a los mercaderes del templo. Fíjate: no de la sinagoga, no de la reunión de oración. Del mismísimo lugar donde los cambistas se sentaban con sus cajas y vendían palomas para el sacrificio a precio triple. No hablaba contra la oración. Hablaba contra lucrar con la oración. Y si viniera hoy, ¿a quién encontraría en la entrada de las grandes catedrales del mundo? A los mismos cambistas. Solo que con otras ropas, con otras cuentas, bajo otros letreros.</p>
+        <p>Y luego vino lo que viene a toda institución ebria de poder. La iglesia se fundió con el Estado. Empezó a bendecir las armas. A consagrar las guerras. A explicar a los pobres que su pobreza es voluntad de Dios, y a los ricos que su riqueza es gracia. Unos y otros salían consolados. Nadie hacía preguntas. Así la fe se convirtió en instrumento de gobierno, igual que la papeleta y la cartera digital. Solo que actúa más hondo, porque toca la conciencia.</p>
+        <p>Por eso este es el tercer collar. Y es el más peligroso, porque habla con la voz de Dios. No se puede discutir con él. No se puede quejarse de él. No se puede alzarse contra él, porque sería alzarse contra el Cielo. Así la iglesia, creada para liberar a la persona, se convirtió en el vigilante más severo. El que llevas contigo y del que no puedes esconderte ni dentro de tu propia cabeza. No puedes dejar de ir — te acusarán de apostasía. No puedes dejar de pagar — te acusarán de tacañería. No puedes callar — te acusarán de impiedad. Y todo esto en nombre de Aquel que andaba descalzo y no tenía dónde reclinar la cabeza.</p>
+        <p>Pero repetimos una vez más: no estamos contra la fe. Estamos contra quienes se la han apropiado. Estamos porque una persona pueda hablar con Dios directamente — sin intermediarios, sin tarifas, sin sellos de permiso. Como hablaban los profetas. Como habló Cristo. Como hablaban todos aquellos a quienes las generaciones posteriores canonizaron, pero que en vida fueron expulsados porque estorbaban a los mercaderes del templo. La libertad de conciencia es tan fundamental para la vida como la voz libre y el dinero libre. Y sin ella las otras dos libertades se vuelven un sonido vacío. Porque una persona a la que se le ha quitado el derecho a una conversación directa con el Cielo aceptará fácilmente el collar digital y las elecciones falsas. Ya le da igual — le han enseñado a no creer en nada salvo en los intermediarios.</p>
+        <p>Y no hablo como observador ajeno. Soy cristiano por convicción — no porque nací en una tierra donde se predica la ortodoxia, ni porque me bautizaron de niño. El bautismo aún no es fe; es tradición. Me hice cristiano en espíritu y por convicción. Durante veinticinco años estudié las Escrituras con inmersión profunda — no por resúmenes, no por catecismo, sino por el texto mismo. Comparé traducciones, leí comentarios, discutí conmigo mismo, hice preguntas incómodas. Y fue esto lo que me llevó a la fe — una fe real, ganada con esfuerzo, no heredada. Semejante fe no teme las preguntas. Las busca.</p>
+        <figure class="chapter-image"><img src="../img/04b-glava-4-bible.jpg" alt="Biblia abierta a la luz de una vela" loading="lazy"></figure>
+        <p>Y me duele mirar. Me duele — por los hermanos y hermanas en la fe, engañados por aquellos en quienes confiaban. Que vienen al templo buscando una palabra viva y salen con un recibo. Que buscan a Dios y encuentran una institución. Que lloran su pobreza y se les dice que es humildad. Duele ver la fe — la suya, luminosa, auténtica — usada como palanca para controlarlos. Enseñarles a no pensar, sino a obedecer. Sustituir la oración por el rito y la libertad por la obediencia.</p>
+        <p>Pero mi dolor no es solo por los míos. Mi dolor es por todos — por el musulmán que reza sinceramente a su Dios y ve su religión convertida en bandera política. Por el budista que busca paz y encuentra comercio. Por el judío cuya fe se ha vuelto cobertura para la política ajena. Por cada uno que cree sinceramente — y ve su fe robada por quienes hablan en nombre del Cielo. Porque el problema no está en una religión concreta. El problema está en aquellos que se interponen entre la persona y Dios, entre la persona y su conciencia, y empiezan a cobrar por el acceso.</p>
+        <figure class="chapter-image"><img src="../img/04c-glava-4-candles.jpg" alt="Símbolos de distintas confesiones" loading="lazy"></figure>
+        <p>La fe verdadera es de cada uno, y no juzgo la ajena. No afirmo que mi camino sea el único. Hablo de otra cosa: cualquier institución que se pone entre la persona y el Cielo, tarde o temprano empieza a comerciar con ese acceso. Y lo que ayer era templo, hoy se convierte en oficina. Lo que era oración, se convierte en servicio de pago. Lo que era libertad, se convierte en collar. Y puede ponerse en nombre de Cristo, o de Alá, o de Buda, o de quien sea — la esencia no cambia.</p>
+        <p>Y ahora — la pregunta que se desprende de todo esto. Si tres collares se han cerrado — político, económico, espiritual — ¿dónde está la salida? La respuesta no está en la rebelión. Ni en la huida. Ni en la oración en soledad. La respuesta está en construir otra cosa. Y empieza con lo que examinaremos en el próximo capítulo: por qué el vino nuevo no puede echarse en odres viejos, y qué significa hacer odres nuevos.</p>
+      </article>
+
+      <article class="chapter" id="chapter-5">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 5</span>
+          <h2>Odres nuevos para vino viejo: por qué la tecnología sin nueva esencia no cambia nada</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/05-glava-4.jpg" alt="Capítulo 5 — odres viejos y nuevos" loading="lazy"></figure>
+        <p>Antes de hablar de la solución, hay que explicar qué son un DAO y una blockchain — en palabras simples, sin términos. Una blockchain es un libro contable compartido que miles de personas mantienen a la vez. Cada apunte es visible para todos, y no se puede borrar ni falsificar, porque una copia se guarda con cada participante. Un DAO — organización autónoma descentralizada — es una comunidad que vive según reglas escritas en ese libro. Sin jefe, sin director, sin diputado. Hay código — y hay personas que lo siguen. Las reglas son iguales para todos, y nadie puede cambiarlas solo.</p>
+        <p>Suena a sueño. Y así se vende. Pero aquí hay que detenerse y mirar con atención. Los primeros DAO, creados después de 2016, prometían igualdad, transparencia, poder de la comunidad. ¿Qué pasó en la práctica? Los grandes tenedores de tokens obtuvieron la voz decisiva. Los ricos se hicieron más ricos. Los influyentes — más influyentes. La votación se convirtió en subasta: quien tiene más tokens, decide las reglas. Quienes vinieron por la libertad descubrieron que habían caído en el mismo sistema, solo con otra interfaz. El mismo dinero. El mismo poder. La misma jerarquía.</p>
+        <p>Aquí está el problema. La tecnología en sí es neutra. Una blockchain es solo una herramienta, como un martillo. Con él se puede construir una casa o romper una cabeza. Un DAO es solo una forma de organización. Se puede poner igualdad o oligarquía. Y la mayoría de los DAO existentes pusieron lo segundo. Tomaron las viejas reglas antihumanas del juego — donde gana el capital, donde el fuerte somete al débil, donde el poder se compra — y las trasladaron a la realidad virtual. Nada cambió. Simplemente ahora parece moderno y se llama con una palabra de moda.</p>
+        <p>Imagina a una anciana que se ha hecho cirugía plástica y ahora parece Miss Universo. Por fuera — joven, bella, radiante. Por dentro — la misma anciana. Las mismas enfermedades, el mismo cansancio, la misma cercanía del final. La operación cambió la cáscara, no la esencia. De la misma manera, una blockchain puede cambiar la cáscara de una organización, pero si dentro permanecen los viejos principios, la vieja codicia, la vieja desigualdad — tendremos la misma tiranía, solo bella y cifrada. El collar se volverá digital, pero seguirá siendo un collar.</p>
+        <p>En la Biblia están las palabras de Cristo: «Nadie echa vino nuevo en odres viejos; de otra manera, los odres se rompen, y el vino se derrama, y los odres se pierden; pero echan el vino nuevo en odres nuevos, y lo uno y lo otro se conservan juntamente» (Mateo 9:17). El pensamiento es genial y profundo: contenido nuevo exige forma nueva. No se puede echar vino fresco en odres viejos y resquebrajados — no aguantarán, reventarán, y todo se perderá. Pero reformulemos de otro modo, aún más preciso para nuestro tema: «Nadie echa tampoco vino viejo en odres nuevos». Se puede construir la forma tecnológica más avanzada, pero si dentro se vierte contenido viejo y agrio — codicia, jerarquía, desigualdad — los odres nuevos no salvarán. Se convertirán simplemente en un bello envoltorio para viejo veneno.</p>
+        <p>Por eso no podemos tomar los DAO existentes y decir: «Mirad, aquí está la solución». No resuelven. Repiten. Copian el viejo mundo, solo en forma digital. Necesitamos no solo odres nuevos. Necesitamos vino nuevo. Nueva esencia. Nuevos principios que realmente pongan a la persona por encima del capital, la igualdad por encima de la influencia, la comunidad por encima del individuo fuerte. Y aquí empieza lo más difícil. Porque construir una blockchain es ingeniería. Pero construir nuevos principios es obra del alma y de la mente, y no se hace en una noche.</p>
+        <p>¿Qué hacer entonces? La respuesta vendrá en los capítulos siguientes. No debemos simplemente usar la tecnología, sino repensar su propio fundamento. Una persona — un token, que no puede venderse. Cuatro gremios, ninguno de los cuales absorbe a la persona entera. Una economía de 49 a 51, donde el emprendedor recibe un incentivo, pero no poder sobre las personas. Estos no son solo odres nuevos. Es un intento de hacer vino nuevo. Pero antes de construir, hay que admitir con honestidad: vino viejo en odres nuevos es lo que ya vimos. Y se agrió.</p>
+      </article>
+
+      <article class="chapter" id="chapter-6">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 6</span>
+          <h2>Una persona — un voto: cómo se estructura la igualdad</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/06-glava-5.jpg" alt="Capítulo 6 — red de votos iguales" loading="lazy"></figure>
+        <p>Pasemos ahora a lo más importante — a cómo funciona por dentro. No en palabras generales, sino paso a paso. Imagina que has decidido entrar. Lo primero que haces es descargar una aplicación en tu teléfono. No te registras en un sitio, no entregas datos a una corporación — recibes un programa que guardará tu identidad contigo, no en un servidor ajeno. Después — un formulario y una verificación por vídeo. El sistema debe asegurarse de que eres una persona viva con un documento, que eres uno y no diez cuentas de una misma persona. Este es el momento clave: sin la unicidad del individuo, ninguna igualdad es posible.</p>
+        <p>Tras la verificación, recibes una cartera cripto fría — un dispositivo del tamaño de un pendrive. Dentro se guarda tu clave privada. Es un código matemático que confirma que la acción la realizaste tú y nadie más. La clave nunca sale del dispositivo. Aunque lo conectes a un ordenador infectado, la clave permanece dentro. Nadie — ni los desarrolladores, ni el Estado, ni los hackers — puede firmar algo en tu nombre. No es una contraseña que puede robarse. Es tu firma digital, que no puede falsificarse. Así se resuelve el problema de la confianza: no confías en nadie, verificas con matemáticas.</p>
+        <p>Ahora sobre lo más importante — sobre los contratos inteligentes. Un contrato inteligente es un programa que ejecuta reglas automáticamente sin participación humana. Imagina un código de leyes que se ejecuta a sí mismo. La votación empezó — el contrato abre la recepción de votos. La votación terminó — el contrato la cierra, cuenta el resultado y lo publica. Nadie puede intervenir, torcer o recontar. Si las reglas dicen que un token no puede transferirse a otro, entonces no puede transferirse. Si dicen que el voto se delega y se retira en cualquier momento, así será. El código no miente. El código no se cansa. El código no acepta sobornos.</p>
+        <p>Cada participante recibe un token. Y aquí empieza lo que distingue nuestro modelo de todo lo anterior. Este token no puede venderse, comprarse, heredarse ni quitarse. El contrato inteligente establece: el token está vinculado a una personalidad única y no tiene valor de mercado. Un millonario no puede comprar mil tokens. Un oligarca no puede pasar su voto a su hijo. Una corporación no puede comprar los votos de sus empleados. Una persona — un token — un voto. Esto no es un eslogan; es una propiedad técnica del sistema. No depende de la buena voluntad. Está integrado en el código y funciona automáticamente.</p>
+        <p>Después — la delegación. No estás obligado a entender cada cuestión por ti mismo. Puedes transferir tu voto a quien confías: a un médico — en cuestiones médicas, a un ingeniero — en infraestructura, a un profesor — en educación. Pero esto no es una renuncia al voto, sino su uso temporal. En cualquier momento, con un clic, recuperas el voto. La delegación se formaliza mediante un contrato inteligente que registra: a quién, por cuánto tiempo, sobre qué temas. Nadie puede retener tu voto por la fuerza. Esto es radicalmente distinto de las elecciones, donde entregas el poder por años y luego no puedes hacer nada.</p>
+        <p>La gobernanza corre por cuatro gremios. Profesional — por ocupación: médicos, profesores, programadores. Territorial — por lugar de residencia. Corporativo — por lugar de servicio. Temático — por intereses: ecología, cultura, ciencia, deporte. En cada gremio tienes un voto. Esto significa que ningún papel absorbe a la persona entera. Eres simultáneamente residente, especialista, empleado y miembro de una comunidad. Cada parte de la vida está representada por separado, y ninguna puede someter a las demás. Esta es la protección contra que el trabajo se vuelva prisión y el barrio se vuelva campo.</p>
+        <p>Toda la votación ocurre en la blockchain. Cada voto queda registrado para siempre. Puedes en cualquier momento verificar cómo votaste tú y cómo votaron otros, quién propuso qué, quién se pronunció por qué. No después de las elecciones, sino en tiempo real. Esto no es votación secreta — es transparente. Porque el secreto es necesario donde se teme la represalia. Pero aquí la represalia es imposible: ninguna persona puede privarte de tu voto. Los resultados no se falsifican, porque no los cuenta una persona, sino el código. El resultado no puede reescribirse, porque una copia de la blockchain se guarda con miles de participantes simultáneamente.</p>
+        <p>Finalmente, lo más importante: en este sistema no hay jefes. Hay un código que es el mismo para todos. Hay una comunidad que toma decisiones. Estás tú — con una voz igual, con una cartera protegida, con la capacidad de influir cada día, y no una vez cada cuatro años. Así se ve la igualdad no en palabras, sino en técnica. No una promesa, sino arquitectura. No la fe en la honestidad del poder, sino la ausencia de un poder en el que haya que confiar. De eso trata el próximo capítulo: cómo este sistema crea una economía donde se puede ser emprendedor, pero no se puede llegar a ser amo sobre las personas.</p>
+      </article>
+
+      <article class="chapter" id="chapter-7">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 7</span>
+          <h2>49 y 51: una economía donde nadie puede convertirse en amo</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/07-glava-6.jpg" alt="Capítulo 7 — balanzas de 49 y 51" loading="lazy"></figure>
+        <p>Ahora hablemos del dinero. Porque cualquier sistema, por bello que sea, se derrumba si se basa en una economía injusta. Estamos acostumbrados a un mundo donde el dueño de una empresa es el amo, el accionista el señor y el empleado un recurso. Donde unos tienen poder y otros solo deberes. Donde el beneficio fluye hacia arriba y el riesgo se queda abajo. Nuestro modelo propone otra cosa. Y empieza con un principio simple: el dueño, el accionista y el empleado tienen cada uno un token. Un voto. Son iguales.</p>
+        <p>Imagina un café. Su dueño invierte dinero, tiempo, alma. Arriesga, desarrolla, contrata. Tiene un incentivo — y eso es justo. Por eso recibe el 49 % del beneficio neto. Es su recompensa por el trabajo, el riesgo, el coraje emprendedor. Puede crecer, abrir nuevas sucursales, invertir en equipamiento, mejorar el producto. Pero el 51 % no va a él. Ese dinero va al Fondo del Bienestar Popular — un puchero común del que se financia la cesta básica de consumo para todos: alimentación, vivienda, sanidad, educación.</p>
+        <p>¿Por qué 49 y no 50 o 40? Porque el 49 % basta para ser emprendedor, pero no basta para convertirse en amo sobre las personas. El dueño no puede acumular tanto como para someter a la comunidad. No puede comprar votos, porque los tokens no se venden. No puede dictar condiciones, porque su voto es igual al voto de la limpiadora. Sigue siendo importante, respetado, acomodado — pero no todopoderoso. Es un equilibrio que no permite ni deslizarse hacia la igualación forzada, ni volver a la oligarquía. La economía se vuelve honesta no porque alguien sea bueno, sino porque el código está construido así.</p>
+        <p>Y ahora — lo más importante, que debe decirse directamente. El dueño del café tiene un token. El accionista que invirtió dinero tiene un token. El barista tras la barra tiene un token. La limpiadora que friega el suelo tiene un token. Todos son iguales en el derecho al voto. Pero también todos son anónimos. El sistema sabe que cada uno es una persona viva y única con un documento. No sabe quién exactamente. No conoce el nombre, ni la dirección, ni el cargo. Solo — una persona. Una. Con una voz.</p>
+        <p>¿Qué significa esto en la práctica? Que nadie puede descubrir cómo votó el dueño. Nadie puede calcular quién propuso cambiar las reglas. Nadie puede rastrear quién apoyó el proyecto de ley y quién se opuso. La votación es transparente en el resultado, pero anónima en la autoría. El resultado lo ven todos, pero no hay ninguna cara detrás. Esta es la protección contra la presión. Contra la venganza. Contra el soborno. Contra que un jefe descubra cómo vota un subordinado y lo despida. Contra que un vecino descubra cómo vota su vecino y empiece una persecución.</p>
+        <p>En la vida ordinaria esto parece imposible. Estamos acostumbrados a que el poder lo sepa todo sobre nosotros, y nosotros nada sobre el poder. Aquí es lo contrario. El sistema no sabe quién eres. Solo sabe que eres una persona, que eres uno y que tienes un voto. Tus compras no se rastrean. Tus votos no se vinculan a tu nombre. Tus propuestas no las firmas. Influyes — pero permaneces invisible. Esto no es anonimato por el anonimato. Es anonimato como condición de la libertad. Sin él, la igualdad se convierte en ficción: quien sabe siempre podrá presionar a quien conoce.</p>
+        <p>Por eso funciona esta economía. El dueño recibe el 49 % — y está contento. El accionista recibe dividendos — y está tranquilo. El empleado recibe un salario digno y la cesta básica — y está protegido. Pero ninguno de ellos puede elevarse por encima de los demás. Nadie puede comprar el voto de otro. Nadie puede descubrir quién votó cómo. El sistema está construido de modo que la codicia no compensa y la honestidad no se castiga. No porque las personas se hayan vuelto ángeles, sino porque el código no les permite volverse demonios.</p>
+        <p>Y aquí hay que decir lo más importante. La cesta básica de consumo no es una limosna, ni una caridad, ni una prestación social que haya que mendigar. Es lo que pertenece a la persona por el mismo hecho de su nacimiento. No porque lo merezca, no porque sea útil, no porque sea leal. Sino porque es un ser humano. Cada uno de los ocho mil millones de personas que viven en la Tierra tiene derecho a la comida, al calor, al techo, a la protección contra el hambre y el frío, a la seguridad durante las catástrofes. Esto no es un bono por buen comportamiento. Es la condición inicial de la vida, arrebatada a la mayoría y apropiada por una minoría.</p>
+        <p>Piensa en lo que esto cambia. Una persona que sabe que no morirá de hambre, no se congelará en invierno, no se quedará sin techo — es otra persona. No teme perder el trabajo, porque no perderá la vida. No tolera humillaciones, porque no depende de la misericordia ajena. No vende su voto por un trozo de pan, porque el pan ya lo tiene. Se vuelve libre no en palabras, sino en actos. Y entonces recuerda por quién fue creado. En el Salmo 81:6 está dicho: «Yo dije: Vosotros sois dioses, y todos vosotros hijos del Altísimo». No reyes, no elegidos, no ricos — todos. Cada ser humano nace a imagen y semejanza del Altísimo, y por eso merece no la supervivencia, sino la vida.</p>
+        <p>Esto es lo que significa ser un ser humano con mayúscula. No el que ganó mucho, no el que subió la escalera de la carrera, no el que venció en la competencia. Sino el que es consciente de su dignidad original y no permite que se la arrebaten. La cesta básica no es un mecanismo económico. Es el reconocimiento de que la persona no es recurso, no es función, no es fuerza de trabajo. Es la base material para que pueda enderezarse y recordar quién es. Sin ella, toda conversación sobre la libertad sigue siendo palabras: un hambriento no piensa en cosas elevadas, no tiene tiempo. Un saciado — puede. Un protegido — se atreve.</p>
+        <p>Y aquí todo se conecta. La economía de 49 a 51 no es simplemente una forma de distribuir el beneficio con justicia. Es una forma de devolver a la persona su posición original. Cuando todos tienen la cesta básica, nadie vende su voto por comida. Cuando todos tienen un token, nadie compra poder con dinero. Cuando todos son anónimos, nadie teme venganza. Y cuando la persona no teme, recuerda que es hija del Altísimo, y no un engranaje en el sistema. Entonces la codicia pierde sentido, y la honestidad se vuelve natural. No porque alguien lo haya impuesto. Sino porque la persona por fin ha llegado a ser ella misma. De eso trata el próximo capítulo — el consejero que no dicta, sino muestra.</p>
+      </article>
+
+      <article class="chapter" id="chapter-8">
+        <header class="chapter-header">
+          <span class="chapter-number">Capítulo 8</span>
+          <h2>Un asesor, no un dictador: la IA que muestra las consecuencias</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/08-glava-7.jpg" alt="Capítulo 8 — asesor IA y modelos del futuro" loading="lazy"></figure>
+        <p>Hemos llegado al último elemento de la construcción — a la inteligencia artificial. Y aquí hay que ser extremadamente cuidadoso, porque hoy se habla de la IA o con horror, o con ingenuo deleite. Unos pintan cuadros de una revuelta de máquinas y la esclavización de la humanidad. Otros prometen que la IA resolverá todos los problemas y nos llevará al paraíso. Ambos son extremos. En nuestro ecosistema, la IA tiene un papel concreto, estrictamente limitado. No gobierna. No vota. No decide. Es un asesor-visualizador. Su tarea es mostrar consecuencias, no elegir por nosotros.</p>
+        <p>Imagina que propones un proyecto de ley. Supongamos, construir una carretera a través de un bosque. En el sistema habitual, votas a ciegas: alguien dice que es desarrollo, alguien dice que es destrucción de la naturaleza. Eliges un lado basándote en emociones, eslóganes, confianza en el orador. Y luego, diez años después, descubres consecuencias que nadie previó. Aquí es distinto. Presentas una propuesta — y la IA te muestra un modelo. Esto es lo que ocurrirá con el bosque. Así cambiará el aire. Esto costará el mantenimiento de la carretera. Estos animales desaparecerán. Este quedará mejor, y aquel peor.</p>
+        <p>Esto no es profecía ni orden. Es simulación. La IA no dice «Haz esto» ni «No hagas esto». Dice: «Esto es lo que ocurrirá si haces esto. Esto es lo que ocurrirá si haces otra cosa. Esto es lo que ocurrirá si no haces nada». El futuro se muestra como presente — visualmente, con claridad, con cifras e imágenes. Ves el cuadro completo, y no un fragmento que a alguien le conviene presentarte. Y solo después votas. Conscientemente. Con los ojos abiertos. No creyendo en la palabra ajena, sino viendo con tus propios ojos.</p>
+        <p>Alguien preguntará: ¿no nos manipulará la IA a través de estas simulaciones? Después de todo, quien construye el modelo puede ajustarlo para mostrar el resultado deseado. La respuesta es simple: la IA en nuestro sistema es abierta. Sus algoritmos son visibles para todos. Sus datos son verificables. Sus modelos pueden ser impugnados, proponerse alternativas, discutirse. No es una caja negra, sino un instrumento transparente. Y lo más importante — no tiene derecho al voto. Sus recomendaciones no deciden nada. Las personas deciden. Anónimamente, con igualdad de derechos, un token cada uno. La IA solo aporta información — la decisión queda con nosotros.</p>
+        <p>Aquí está la diferencia fundamental entre un asesor y un dictador. Un dictador dice: «Haz esto, porque yo sé mejor». Un asesor dice: «Estas son las opciones, estas son sus consecuencias, elige tú mismo». Un dictador oculta información para gobernar. Un asesor la revela para que puedas gobernarte a ti mismo. Un dictador teme las preguntas. Un asesor las responde. Toda la fuerza de la IA en nuestro ecosistema no está en que sea más inteligente que nosotros, sino en que cuenta más rápido, ve más ampliamente y no se cansa. Pero los objetivos los definimos nosotros. Los valores los elegimos nosotros. El futuro lo construimos nosotros. Ella solo muestra el camino.</p>
+        <p>Imagina cómo cambia la calidad de las decisiones. Hoy las leyes se adoptan sobre la base del lobbying, las emociones, la ganancia momentánea. Mañana — sobre la base de consecuencias simuladas. Hoy un político promete bajar un impuesto para agradar a los votantes, y un año después el presupuesto revienta por las costuras. Mañana el votante ve por sí mismo: este quedará mejor, aquel peor, esto es lo que ocurrirá con hospitales, escuelas, carreteras. Y vota entendiendo el precio. Esto no nos hace infalibles. Pero nos hace videntes. Y una persona que ve no camina hacia donde le espera un precipicio.</p>
+        <p>Y aquí se cierra toda la construcción. Tenemos igualdad — una persona, un voto. Tenemos protección — anonimato y un token intocable. Tenemos economía — 49 a 51, la cesta básica por derecho de nacimiento. Tenemos tecnología — blockchain y contratos inteligentes. Y tenemos un asesor — la IA que no dicta, sino muestra. Todo esto junto no es una utopía. Es una tarea de ingeniería. Difícil, pero resoluble. Y debe resolverse no mañana, sino ahora. Porque el viejo mundo revienta por las costuras, y el nuevo aún no está construido. De eso trata el epílogo. Sobre dónde empezar y qué debe hacer cada uno de nosotros.</p>
+      </article>
+
+      <article class="chapter" id="epilog">
+        <header class="chapter-header">
+          <span class="chapter-number">Epílogo</span>
+          <h2>El amanecer comienza con uno</h2>
+        </header>
+        <figure class="chapter-image"><img src="../img/09-epilog.jpg" alt="Epílogo — amanecer y luces de esperanza" loading="lazy"></figure>
+        <p>Hemos recorrido todo el camino — del diagnóstico a la solución. Vimos cómo las elecciones se convirtieron en teatro, cómo el votante desaparece entre votaciones, cómo la correa digital aprieta bajo la apariencia de comodidad. Examinamos por qué los DAO antiguos copian las reglas antiguas y descubrimos que necesitamos vino nuevo, no solo odres nuevos. Describimos cómo están estructurados la igualdad, la economía y el asesor de IA. Ahora — la parte más honesta. Todas estas tecnologías existen. Pero ninguna de ellas está ensamblada en lo que necesitamos.</p>
+        <p>La blockchain existe — pero se usa para especulación y memecoins. Los contratos inteligentes existen — pero en ellos se escriben pirámides financieras. La criptografía existe — pero protege fortunas ajenas. La inteligencia artificial existe — pero sirve a corporaciones y publicidad. Todo esto está disperso como piezas de un kit en cajas diferentes. Algunas tecnologías están listas y funcionan — hay que tomarlas. Otras necesitan ajuste, refinamiento, adaptación a nuevos principios. Y otras — escritas desde cero, porque nada semejante ha sido creado aún. Esta no es tarea de una persona. Es trabajo para miles.</p>
+        <p>Pero antes de ensamblar, hay que despertar. Todas las tecnologías del mundo son inútiles si la idea no llega a las personas. Hoy miles de millones duermen. Sienten que algo va mal, pero no saben qué exactamente. Ven los síntomas — pobreza, dependencia, impotencia — pero no ven el diagnóstico. Nuestra tarea es abrir los ojos. No imponer, no gritar, no asustar. Sino explicar. Con calma, con claridad, de forma accesible. A todos los que estén dispuestos a escuchar. Porque está dicho: un poco de levadura fermenta toda la masa. No hay que esperar a millones. Bastan unos pocos que entendieron y llevaron más lejos.</p>
+        <p>Difunde la idea de la soberanía popular por todos los medios disponibles. No solo con artículos — con conversaciones de cocina, publicaciones en redes, vídeos, podcasts, poemas, canciones, dibujos. En cualquier idioma comprensible para tu interlocutor. Porque una idea no es un texto, sino una chispa. Vive mientras se transmite. El silencio la mata más rápido que cualquier prohibición. Habla, discute, explica, responde preguntas. No temas la burla — teme al silencio. Fue el silencio lo que permitió al viejo mundo quedarse tanto tiempo en su sitio.</p>
+        <p>Y ahora — la llamada. Si escribes código — únete. Si eres economista, jurista, sociólogo, ingeniero, diseñador, psicólogo, profesor — eres necesario. Si sabes explicar, organizar, inspirar — también eres necesario. No hace falta ser un genio. Hace falta ser alguien que ha decidido que ya basta de ser espectador. Este proyecto no es para un país, no para un pueblo, no para una época. Es la causa global de todas las eras y pueblos, reunida aquí y ahora. Y si sientes una respuesta dentro — entonces ya eres parte de ella.</p>
+        <p>El amanecer no comienza con millones. Comienza con una persona que despertó y despertó a una segunda. La segunda despertó a una tercera. Y así — hasta que la oscuridad retroceda. No prometemos que sea fácil. No prometemos que sea rápido. Pero sabemos: el viejo sistema se derrumba por sí solo, porque es inhumano. Y el nuevo lo construyen personas que recordaron que son dioses, hijos del Altísimo. Empieza con algo pequeño. Hoy. Con esta página. Con una conversación. El amanecer ya está cerca.</p>
+      </article>
+
+    </div>
+
+    <footer class="site-footer">
+      <p class="footer-title">El Collar o el Amanecer · breve libro · 2026</p>
+      <div class="footer-socials">
+        <a class="social social-tg" href="https://t.me/s/narodnoe_samoderjavie" target="_blank" rel="noopener" aria-label="Canal de Telegram">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>
+        </a>
+        <a class="social social-ok" href="https://ok.ru/abkostikov" target="_blank" rel="noopener" aria-label="Odnoklassniki"><span>OK</span></a>
+        <a class="social social-vk" href="https://vk.com/abkostikov" target="_blank" rel="noopener" aria-label="VK"><span>VK</span></a>
+        <a class="social social-ig" href="https://instagram.com/abkostikov" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+        <a class="social social-tw" href="https://twitter.com/abkostikov" target="_blank" rel="noopener" aria-label="Twitter / X">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M17.53 3H20.5l-6.5 7.43L21.7 21h-6.2l-4.85-6.34L5.1 21H2.13l6.96-7.94L2 3h6.36l4.38 5.79L17.53 3zm-1.09 16.2h1.65L7.63 4.7H5.86l10.58 14.5z"/></svg>
+        </a>
+        <a class="social social-fb" href="https://facebook.com/abkostikov" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+        </a>
+      </div>
+      <p class="footer-handle">@abkostikov</p>
+      <p class="footer-hash">#soberaníapopular #DAO #blockchain #libertad #unapersonaunvoto #amanecer</p>
+    </footer>
+
+  </main>
+
+  <button class="to-top" id="toTop" aria-label="Arriba">↑</button>
+
+  <script>
+(function () {
+  "use strict";
+  document.querySelectorAll(".chapter-image img").forEach(function (img) {
+    img.addEventListener("error", function () { img.parentElement.classList.add("image-missing"); });
+  });
+  var menuToggle = document.getElementById("menuToggle");
+  var mobileNav = document.getElementById("mobileNav");
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener("click", function () {
+      var isOpen = mobileNav.classList.toggle("open");
+      menuToggle.classList.toggle("open", isOpen);
+      menuToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+    mobileNav.querySelectorAll("a").forEach(function (link) {
+      link.addEventListener("click", function () {
+        mobileNav.classList.remove("open");
+        menuToggle.classList.remove("open");
+        menuToggle.setAttribute("aria-expanded", "false");
+      });
+    });
+  }
+  var progressBar = document.getElementById("progressBar");
+  function updateProgress() {
+    var s = window.scrollY || document.documentElement.scrollTop;
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    if (progressBar) progressBar.style.width = (h > 0 ? (s / h) * 100 : 0) + "%";
+  }
+  var toTop = document.getElementById("toTop");
+  function toggleToTop() {
+    if (!toTop) return;
+    if (window.scrollY > 500) toTop.classList.add("show"); else toTop.classList.remove("show");
+  }
+  if (toTop) toTop.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+  var sections = Array.prototype.slice.call(document.querySelectorAll(".chapter"));
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll(".toc-nav a, .mobile-nav a"));
+  function setActiveLink() {
+    var fromTop = window.scrollY + 140, current = null;
+    sections.forEach(function (s) { if (s.offsetTop <= fromTop) current = s.id; });
+    navLinks.forEach(function (l) {
+      var href = l.getAttribute("href"); if (!href) return;
+      l.classList.toggle("active", href.replace("#","") === current);
+    });
+  }
+  var ticking = false;
+  function onScroll() {
+    if (ticking) return; ticking = true;
+    window.requestAnimationFrame(function () {
+      updateProgress(); toggleToTop(); setActiveLink(); ticking = false;
+    });
+  }
+  window.addEventListener("scroll", onScroll, { passive: true });
+  window.addEventListener("resize", onScroll);
+  document.querySelectorAll('a[href^="#"]').forEach(function (a) {
+    a.addEventListener("click", function (e) {
+      var href = a.getAttribute("href");
+      if (!href || href === "#" || href === "#top") {
+        if (href === "#top") { e.preventDefault(); window.scrollTo({ top: 0, behavior: "smooth" }); }
+        return;
+      }
+      var id = href.slice(1), target = document.getElementById(id);
+      if (!target) return;
+      e.preventDefault();
+      var isMobile = window.matchMedia("(max-width: 1100px)").matches;
+      var offset = isMobile ? 76 : 40;
+      var top = target.getBoundingClientRect().top + window.scrollY - offset;
+      window.scrollTo({ top: top, behavior: "smooth" });
+      history.replaceState(null, "", "#" + id);
+    });
+  });
+  updateProgress(); toggleToTop(); setActiveLink();
+})();
+  </script>
+</body>
+</html>
